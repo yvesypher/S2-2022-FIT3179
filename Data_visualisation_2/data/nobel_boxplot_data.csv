@@ -386,8 +386,8 @@ Award Year,Category,Age of Achieving Prize,Gender
 1969,Physiology or Medicine,61,Male
 1969,Physiology or Medicine,57,Male
 1969,Literature,63,Male
-1969,economics,74,Male
-1969,economics,66,Male
+1969,Economic Sciences,74,Male
+1969,Economic Sciences,66,Male
 1970,Physics,62,Male
 1970,Physics,66,Male
 1970,Chemistry,64,Male
@@ -396,13 +396,13 @@ Award Year,Category,Age of Achieving Prize,Gender
 1970,Physiology or Medicine,58,Male
 1970,Peace,56,Male
 1970,Literature,52,Male
-1970,economics,55,Male
+1970,Economic Sciences,55,Male
 1971,Physics,71,Male
 1971,Chemistry,67,Male
 1971,Physiology or Medicine,56,Male
 1971,Peace,58,Male
 1971,Literature,67,Male
-1971,economics,70,Male
+1971,Economic Sciences,70,Male
 1972,Physics,64,Male
 1972,Physics,42,Male
 1972,Physics,41,Male
@@ -412,8 +412,8 @@ Award Year,Category,Age of Achieving Prize,Gender
 1972,Physiology or Medicine,43,Male
 1972,Physiology or Medicine,55,Male
 1972,Literature,55,Male
-1972,economics,68,Male
-1972,economics,51,Male
+1972,Economic Sciences,68,Male
+1972,Economic Sciences,51,Male
 1973,Physics,48,Male
 1973,Physics,44,Male
 1973,Physics,33,Male
@@ -425,7 +425,7 @@ Award Year,Category,Age of Achieving Prize,Gender
 1973,Peace,50,Male
 1973,Peace,62,Male
 1973,Literature,61,Male
-1973,economics,67,Male
+1973,Economic Sciences,67,Male
 1974,Physics,56,Male
 1974,Physics,50,Male
 1974,Chemistry,64,Male
@@ -436,8 +436,8 @@ Award Year,Category,Age of Achieving Prize,Gender
 1974,Peace,73,Male
 1974,Literature,74,Male
 1974,Literature,70,Male
-1974,economics,76,Male
-1974,economics,75,Male
+1974,Economic Sciences,76,Male
+1974,Economic Sciences,75,Male
 1975,Physics,53,Male
 1975,Physics,49,Male
 1975,Physics,58,Male
@@ -448,8 +448,8 @@ Award Year,Category,Age of Achieving Prize,Gender
 1975,Physiology or Medicine,41,Male
 1975,Peace,54,Male
 1975,Literature,79,Male
-1975,economics,63,Male
-1975,economics,65,Male
+1975,Economic Sciences,63,Male
+1975,Economic Sciences,65,Male
 1976,Physics,45,Male
 1976,Physics,40,Male
 1976,Chemistry,57,Male
@@ -458,7 +458,7 @@ Award Year,Category,Age of Achieving Prize,Gender
 1976,Peace,33,Female
 1976,Peace,32,Female
 1976,Literature,61,Male
-1976,economics,64,Male
+1976,Economic Sciences,64,Male
 1977,Physics,54,Male
 1977,Physics,72,Male
 1977,Physics,78,Male
@@ -467,8 +467,8 @@ Award Year,Category,Age of Achieving Prize,Gender
 1977,Physiology or Medicine,51,Male
 1977,Physiology or Medicine,56,Female
 1977,Literature,79,Male
-1977,economics,78,Male
-1977,economics,70,Male
+1977,Economic Sciences,78,Male
+1977,Economic Sciences,70,Male
 1978,Physics,84,Male
 1978,Physics,45,Male
 1978,Physics,42,Male
@@ -479,7 +479,7 @@ Award Year,Category,Age of Achieving Prize,Gender
 1978,Peace,60,Male
 1978,Peace,65,Male
 1978,Literature,74,Male
-1978,economics,62,Male
+1978,Economic Sciences,62,Male
 1979,Physics,47,Male
 1979,Physics,53,Male
 1979,Physics,46,Male
@@ -489,8 +489,8 @@ Award Year,Category,Age of Achieving Prize,Gender
 1979,Physiology or Medicine,60,Male
 1979,Peace,69,Female
 1979,Literature,68,Male
-1979,economics,77,Male
-1979,economics,64,Male
+1979,Economic Sciences,77,Male
+1979,Economic Sciences,64,Male
 1980,Physics,49,Male
 1980,Physics,57,Male
 1980,Chemistry,62,Male
@@ -501,7 +501,7 @@ Award Year,Category,Age of Achieving Prize,Gender
 1980,Physiology or Medicine,77,Male
 1980,Peace,49,Male
 1980,Literature,69,Male
-1980,economics,60,Male
+1980,Economic Sciences,60,Male
 1981,Physics,61,Male
 1981,Physics,60,Male
 1981,Physics,63,Male
@@ -511,7 +511,7 @@ Award Year,Category,Age of Achieving Prize,Gender
 1981,Physiology or Medicine,55,Male
 1981,Physiology or Medicine,57,Male
 1981,Literature,76,Male
-1981,economics,63,Male
+1981,Economic Sciences,63,Male
 1982,Physics,46,Male
 1982,Chemistry,56,Male
 1982,Physiology or Medicine,66,Male
@@ -520,14 +520,14 @@ Award Year,Category,Age of Achieving Prize,Gender
 1982,Peace,80,Female
 1982,Peace,71,Male
 1982,Literature,55,Male
-1982,economics,71,Male
+1982,Economic Sciences,71,Male
 1983,Physics,73,Male
 1983,Physics,72,Male
 1983,Chemistry,68,Male
 1983,Physiology or Medicine,81,Female
 1983,Peace,40,Male
 1983,Literature,72,Male
-1983,economics,62,Male
+1983,Economic Sciences,62,Male
 1984,Physics,50,Male
 1984,Physics,59,Male
 1984,Chemistry,63,Male
@@ -536,14 +536,14 @@ Award Year,Category,Age of Achieving Prize,Gender
 1984,Physiology or Medicine,57,Male
 1984,Peace,53,Male
 1984,Literature,83,Male
-1984,economics,71,Male
+1984,Economic Sciences,71,Male
 1985,Physics,42,Male
 1985,Chemistry,68,Male
 1985,Chemistry,67,Male
 1985,Physiology or Medicine,44,Male
 1985,Physiology or Medicine,45,Male
 1985,Literature,72,Male
-1985,economics,67,Male
+1985,Economic Sciences,67,Male
 1986,Physics,80,Male
 1986,Physics,39,Male
 1986,Physics,53,Male
@@ -554,7 +554,7 @@ Award Year,Category,Age of Achieving Prize,Gender
 1986,Physiology or Medicine,77,Female
 1986,Peace,58,Male
 1986,Literature,52,Male
-1986,economics,67,Male
+1986,Economic Sciences,67,Male
 1987,Physics,37,Male
 1987,Physics,60,Male
 1987,Chemistry,68,Male
@@ -563,7 +563,7 @@ Award Year,Category,Age of Achieving Prize,Gender
 1987,Physiology or Medicine,48,Male
 1987,Peace,47,Male
 1987,Literature,47,Male
-1987,economics,63,Male
+1987,Economic Sciences,63,Male
 1988,Physics,66,Male
 1988,Physics,56,Male
 1988,Physics,67,Male
@@ -574,7 +574,7 @@ Award Year,Category,Age of Achieving Prize,Gender
 1988,Physiology or Medicine,70,Female
 1988,Physiology or Medicine,83,Male
 1988,Literature,77,Male
-1988,economics,77,Male
+1988,Economic Sciences,77,Male
 1989,Physics,74,Male
 1989,Physics,67,Male
 1989,Physics,76,Male
@@ -584,7 +584,7 @@ Award Year,Category,Age of Achieving Prize,Gender
 1989,Physiology or Medicine,50,Male
 1989,Peace,54,Male
 1989,Literature,73,Male
-1989,economics,78,Male
+1989,Economic Sciences,78,Male
 1990,Physics,60,Male
 1990,Physics,64,Male
 1990,Physics,61,Male
@@ -593,23 +593,23 @@ Award Year,Category,Age of Achieving Prize,Gender
 1990,Physiology or Medicine,70,Male
 1990,Peace,59,Male
 1990,Literature,76,Male
-1990,economics,63,Male
-1990,economics,67,Male
-1990,economics,56,Male
+1990,Economic Sciences,63,Male
+1990,Economic Sciences,67,Male
+1990,Economic Sciences,56,Male
 1991,Physics,59,Male
 1991,Chemistry,58,Male
 1991,Physiology or Medicine,47,Male
 1991,Physiology or Medicine,49,Male
 1991,Peace,46,Female
 1991,Literature,68,Female
-1991,economics,81,Male
+1991,Economic Sciences,81,Male
 1992,Physics,68,Male
 1992,Chemistry,69,Male
 1992,Physiology or Medicine,72,Male
 1992,Physiology or Medicine,74,Male
 1992,Peace,33,Female
 1992,Literature,62,Male
-1992,economics,62,Male
+1992,Economic Sciences,62,Male
 1993,Physics,43,Male
 1993,Physics,52,Male
 1993,Chemistry,49,Male
@@ -619,8 +619,8 @@ Award Year,Category,Age of Achieving Prize,Gender
 1993,Peace,75,Male
 1993,Peace,57,Male
 1993,Literature,62,Female
-1993,economics,66,Male
-1993,economics,73,Male
+1993,Economic Sciences,66,Male
+1993,Economic Sciences,73,Male
 1994,Physics,76,Male
 1994,Physics,79,Male
 1994,Chemistry,67,Male
@@ -630,9 +630,9 @@ Award Year,Category,Age of Achieving Prize,Gender
 1994,Peace,71,Male
 1994,Peace,72,Male
 1994,Literature,59,Male
-1994,economics,74,Male
-1994,economics,66,Male
-1994,economics,64,Male
+1994,Economic Sciences,74,Male
+1994,Economic Sciences,66,Male
+1994,Economic Sciences,64,Male
 1995,Physics,68,Male
 1995,Physics,77,Male
 1995,Chemistry,62,Male
@@ -643,7 +643,7 @@ Award Year,Category,Age of Achieving Prize,Gender
 1995,Physiology or Medicine,48,Male
 1995,Peace,87,Male
 1995,Literature,56,Male
-1995,economics,58,Male
+1995,Economic Sciences,58,Male
 1996,Physics,65,Male
 1996,Physics,51,Male
 1996,Physics,59,Male
@@ -655,8 +655,8 @@ Award Year,Category,Age of Achieving Prize,Gender
 1996,Peace,48,Male
 1996,Peace,47,Male
 1996,Literature,73,Female
-1996,economics,60,Male
-1996,economics,82,Male
+1996,Economic Sciences,60,Male
+1996,Economic Sciences,82,Male
 1997,Physics,49,Male
 1997,Physics,64,Male
 1997,Physics,49,Male
@@ -666,8 +666,8 @@ Award Year,Category,Age of Achieving Prize,Gender
 1997,Physiology or Medicine,55,Male
 1997,Peace,47,Female
 1997,Literature,71,Male
-1997,economics,53,Male
-1997,economics,56,Male
+1997,Economic Sciences,53,Male
+1997,Economic Sciences,56,Male
 1998,Physics,48,Male
 1998,Physics,49,Male
 1998,Physics,59,Male
@@ -679,13 +679,13 @@ Award Year,Category,Age of Achieving Prize,Gender
 1998,Peace,61,Male
 1998,Peace,54,Male
 1998,Literature,76,Male
-1998,economics,65,Male
+1998,Economic Sciences,65,Male
 1999,Physics,53,Male
 1999,Physics,68,Male
 1999,Chemistry,53,Male
 1999,Physiology or Medicine,63,Male
 1999,Literature,72,Male
-1999,economics,67,Male
+1999,Economic Sciences,67,Male
 2000,Physiology or Medicine,77,Male
 2000,Physiology or Medicine,75,Male
 2000,Physiology or Medicine,71,Male
@@ -696,8 +696,8 @@ Award Year,Category,Age of Achieving Prize,Gender
 2000,Chemistry,64,Male
 2000,Chemistry,73,Male
 2000,Chemistry,64,Male
-2000,economics,56,Male
-2000,economics,63,Male
+2000,Economic Sciences,56,Male
+2000,Economic Sciences,63,Male
 2000,Literature,60,Male
 2001,Physiology or Medicine,62,Male
 2001,Physiology or Medicine,58,Male
@@ -708,9 +708,9 @@ Award Year,Category,Age of Achieving Prize,Gender
 2001,Chemistry,84,Male
 2001,Chemistry,63,Male
 2001,Chemistry,60,Male
-2001,economics,61,Male
-2001,economics,58,Male
-2001,economics,58,Male
+2001,Economic Sciences,61,Male
+2001,Economic Sciences,58,Male
+2001,Economic Sciences,58,Male
 2001,Literature,69,Male
 2001,Peace,63,Male
 2002,Physiology or Medicine,75,Male
@@ -722,8 +722,8 @@ Award Year,Category,Age of Achieving Prize,Gender
 2002,Chemistry,85,Male
 2002,Chemistry,43,Male
 2002,Chemistry,64,Male
-2002,economics,68,Male
-2002,economics,75,Male
+2002,Economic Sciences,68,Male
+2002,Economic Sciences,75,Male
 2002,Literature,73,Male
 2002,Peace,78,Male
 2003,Literature,63,Male
@@ -734,8 +734,8 @@ Award Year,Category,Age of Achieving Prize,Gender
 2003,Physics,65,Male
 2003,Chemistry,54,Male
 2003,Chemistry,47,Male
-2003,economics,61,Male
-2003,economics,69,Male
+2003,Economic Sciences,61,Male
+2003,Economic Sciences,69,Male
 2003,Peace,56,Female
 2004,Physiology or Medicine,58,Male
 2004,Physiology or Medicine,57,Female
@@ -747,8 +747,8 @@ Award Year,Category,Age of Achieving Prize,Gender
 2004,Chemistry,78,Male
 2004,Literature,58,Female
 2004,Peace,64,Female
-2004,economics,61,Male
-2004,economics,64,Male
+2004,Economic Sciences,61,Male
+2004,Economic Sciences,64,Male
 2005,Physiology or Medicine,54,Male
 2005,Physiology or Medicine,68,Male
 2005,Physics,80,Male
@@ -758,15 +758,15 @@ Award Year,Category,Age of Achieving Prize,Gender
 2005,Chemistry,63,Male
 2005,Chemistry,60,Male
 2005,Peace,63,Male
-2005,economics,75,Male
-2005,economics,84,Male
+2005,Economic Sciences,75,Male
+2005,Economic Sciences,84,Male
 2005,Literature,75,Male
 2006,Physiology or Medicine,47,Male
 2006,Physiology or Medicine,46,Male
 2006,Physics,60,Male
 2006,Physics,61,Male
 2006,Chemistry,59,Male
-2006,economics,73,Male
+2006,Economic Sciences,73,Male
 2006,Literature,54,Male
 2006,Peace,66,Male
 2007,Physiology or Medicine,70,Male
@@ -777,9 +777,9 @@ Award Year,Category,Age of Achieving Prize,Gender
 2007,Chemistry,71,Male
 2007,Literature,88,Female
 2007,Peace,59,Male
-2007,economics,90,Male
-2007,economics,57,Male
-2007,economics,56,Male
+2007,Economic Sciences,90,Male
+2007,Economic Sciences,57,Male
+2007,Economic Sciences,56,Male
 2008,Physiology or Medicine,72,Male
 2008,Physiology or Medicine,61,Female
 2008,Physiology or Medicine,76,Male
@@ -791,7 +791,7 @@ Award Year,Category,Age of Achieving Prize,Gender
 2008,Chemistry,56,Male
 2008,Literature,68,Male
 2008,Peace,71,Male
-2008,economics,55,Male
+2008,Economic Sciences,55,Male
 2009,Physiology or Medicine,61,Female
 2009,Physiology or Medicine,48,Female
 2009,Physiology or Medicine,57,Male
@@ -803,8 +803,8 @@ Award Year,Category,Age of Achieving Prize,Gender
 2009,Chemistry,70,Female
 2009,Literature,56,Female
 2009,Peace,48,Male
-2009,economics,76,Female
-2009,economics,77,Male
+2009,Economic Sciences,76,Female
+2009,Economic Sciences,77,Male
 2010,Physiology or Medicine,85,Male
 2010,Physics,52,Male
 2010,Physics,36,Male
@@ -813,9 +813,9 @@ Award Year,Category,Age of Achieving Prize,Gender
 2010,Chemistry,80,Male
 2010,Literature,74,Male
 2010,Peace,55,Male
-2010,economics,70,Male
-2010,economics,71,Male
-2010,economics,62,Male
+2010,Economic Sciences,70,Male
+2010,Economic Sciences,71,Male
+2010,Economic Sciences,62,Male
 2011,Physiology or Medicine,54,Male
 2011,Physiology or Medicine,70,Male
 2011,Physiology or Medicine,68,Male
@@ -827,8 +827,8 @@ Award Year,Category,Age of Achieving Prize,Gender
 2011,Peace,73,Female
 2011,Peace,39,Female
 2011,Peace,32,Female
-2011,economics,68,Male
-2011,economics,69,Male
+2011,Economic Sciences,68,Male
+2011,Economic Sciences,69,Male
 2012,Physiology or Medicine,79,Male
 2012,Physiology or Medicine,50,Male
 2012,Physics,68,Male
@@ -836,8 +836,8 @@ Award Year,Category,Age of Achieving Prize,Gender
 2012,Chemistry,69,Male
 2012,Chemistry,57,Male
 2012,Literature,57,Male
-2012,economics,61,Male
-2012,economics,89,Male
+2012,Economic Sciences,61,Male
+2012,Economic Sciences,89,Male
 2013,Physiology or Medicine,63,Male
 2013,Physiology or Medicine,65,Male
 2013,Physiology or Medicine,58,Male
@@ -847,9 +847,9 @@ Award Year,Category,Age of Achieving Prize,Gender
 2013,Chemistry,66,Male
 2013,Chemistry,73,Male
 2013,Literature,82,Female
-2013,economics,74,Male
-2013,economics,61,Male
-2013,economics,67,Male
+2013,Economic Sciences,74,Male
+2013,Economic Sciences,61,Male
+2013,Economic Sciences,67,Male
 2014,Physiology or Medicine,75,Male
 2014,Physiology or Medicine,51,Female
 2014,Physiology or Medicine,52,Male
@@ -862,7 +862,7 @@ Award Year,Category,Age of Achieving Prize,Gender
 2014,Literature,69,Male
 2014,Peace,60,Male
 2014,Peace,17,Female
-2014,economics,61,Male
+2014,Economic Sciences,61,Male
 2015,Physiology or Medicine,85,Male
 2015,Physiology or Medicine,80,Male
 2015,Physiology or Medicine,85,Female
@@ -872,7 +872,7 @@ Award Year,Category,Age of Achieving Prize,Gender
 2015,Chemistry,69,Male
 2015,Chemistry,69,Male
 2015,Literature,67,Female
-2015,economics,70,Male
+2015,Economic Sciences,70,Male
 2016,Physiology or Medicine,71,Male
 2016,Physics,82,Male
 2016,Physics,65,Male
@@ -881,8 +881,8 @@ Award Year,Category,Age of Achieving Prize,Gender
 2016,Chemistry,74,Male
 2016,Chemistry,65,Male
 2016,Peace,65,Male
-2016,economics,68,Male
-2016,economics,67,Male
+2016,Economic Sciences,68,Male
+2016,Economic Sciences,67,Male
 2016,Literature,75,Male
 2017,Physiology or Medicine,72,Male
 2017,Physiology or Medicine,73,Male
@@ -894,7 +894,7 @@ Award Year,Category,Age of Achieving Prize,Gender
 2017,Chemistry,77,Male
 2017,Chemistry,72,Male
 2017,Literature,63,Male
-2017,economics,72,Male
+2017,Economic Sciences,72,Male
 2018,Physiology or Medicine,70,Male
 2018,Physiology or Medicine,76,Male
 2018,Physics,96,Male
@@ -905,8 +905,8 @@ Award Year,Category,Age of Achieving Prize,Gender
 2018,Chemistry,67,Male
 2018,Peace,63,Male
 2018,Peace,25,Female
-2018,economics,77,Male
-2018,economics,63,Male
+2018,Economic Sciences,77,Male
+2018,Economic Sciences,63,Male
 2018,Literature,56,Female
 2019,Physiology or Medicine,62,Male
 2019,Physiology or Medicine,65,Male
@@ -919,6 +919,6 @@ Award Year,Category,Age of Achieving Prize,Gender
 2019,Chemistry,71,Male
 2019,Literature,77,Male
 2019,Peace,43,Male
-2019,economics,58,Male
-2019,economics,47,Female
-2019,economics,55,Male
+2019,Economic Sciences,58,Male
+2019,Economic Sciences,47,Female
+2019,Economic Sciences,55,Male
