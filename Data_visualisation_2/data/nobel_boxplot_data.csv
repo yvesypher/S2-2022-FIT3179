@@ -1,0 +1,924 @@
+Award Year,Category,Age of Achieving Prize,Gender
+1901,Physics,56,Male
+1901,Chemistry,49,Male
+1901,Physiology or Medicine,47,Male
+1901,Peace,73,Male
+1901,Peace,79,Male
+1901,Literature,62,Male
+1902,Physics,49,Male
+1902,Physics,37,Male
+1902,Chemistry,50,Male
+1902,Physiology or Medicine,45,Male
+1902,Peace,69,Male
+1902,Peace,59,Male
+1902,Literature,85,Male
+1903,Physics,51,Male
+1903,Physics,44,Male
+1903,Physics,36,Female
+1903,Chemistry,44,Male
+1903,Physiology or Medicine,43,Male
+1903,Peace,75,Male
+1903,Literature,71,Male
+1904,Physics,62,Male
+1904,Chemistry,52,Male
+1904,Physiology or Medicine,55,Male
+1904,Literature,74,Male
+1904,Literature,72,Male
+1905,Physics,43,Male
+1905,Chemistry,70,Male
+1905,Physiology or Medicine,62,Male
+1905,Peace,62,Female
+1905,Literature,59,Male
+1906,Physics,50,Male
+1906,Chemistry,54,Male
+1906,Physiology or Medicine,63,Male
+1906,Physiology or Medicine,54,Male
+1906,Peace,48,Male
+1906,Literature,71,Male
+1907,Physics,55,Male
+1907,Chemistry,47,Male
+1907,Physiology or Medicine,62,Male
+1907,Peace,74,Male
+1907,Peace,64,Male
+1907,Literature,42,Male
+1908,Physics,63,Male
+1908,Chemistry,37,Male
+1908,Physiology or Medicine,63,Male
+1908,Physiology or Medicine,54,Male
+1908,Peace,64,Male
+1908,Peace,71,Male
+1908,Literature,62,Male
+1909,Physics,35,Male
+1909,Physics,59,Male
+1909,Chemistry,56,Male
+1909,Physiology or Medicine,68,Male
+1909,Peace,80,Male
+1909,Peace,57,Male
+1909,Literature,51,Female
+1910,Physics,73,Male
+1910,Chemistry,63,Male
+1910,Physiology or Medicine,57,Male
+1910,Literature,80,Male
+1911,Chemistry,44,Female
+1911,Physics,47,Male
+1911,Physiology or Medicine,49,Male
+1911,Peace,73,Male
+1911,Peace,47,Male
+1911,Literature,49,Male
+1912,Physics,43,Male
+1912,Chemistry,41,Male
+1912,Chemistry,58,Male
+1912,Physiology or Medicine,39,Male
+1912,Peace,67,Male
+1912,Literature,50,Male
+1913,Physics,60,Male
+1913,Chemistry,47,Male
+1913,Physiology or Medicine,63,Male
+1913,Peace,59,Male
+1913,Literature,52,Male
+1914,Physics,35,Male
+1914,Chemistry,46,Male
+1914,Physiology or Medicine,38,Male
+1915,Physics,53,Male
+1915,Physics,25,Male
+1915,Chemistry,43,Male
+1915,Literature,49,Male
+1916,Literature,57,Male
+1917,Physics,40,Male
+1917,Literature,60,Male
+1917,Literature,60,Male
+1918,Physics,60,Male
+1918,Chemistry,50,Male
+1919,Physics,45,Male
+1919,Physiology or Medicine,49,Male
+1919,Peace,63,Male
+1919,Literature,74,Male
+1920,Physics,59,Male
+1920,Chemistry,56,Male
+1920,Physiology or Medicine,46,Male
+1920,Peace,69,Male
+1920,Literature,61,Male
+1921,Physics,42,Male
+1921,Chemistry,44,Male
+1921,Peace,61,Male
+1921,Peace,52,Male
+1921,Literature,77,Male
+1922,Physics,37,Male
+1922,Chemistry,45,Male
+1922,Physiology or Medicine,36,Male
+1922,Physiology or Medicine,38,Male
+1922,Peace,61,Male
+1922,Literature,56,Male
+1923,Physics,55,Male
+1923,Chemistry,54,Male
+1923,Physiology or Medicine,32,Male
+1923,Physiology or Medicine,47,Male
+1923,Literature,58,Male
+1924,Physics,38,Male
+1924,Physiology or Medicine,64,Male
+1924,Literature,57,Male
+1925,Physics,43,Male
+1925,Physics,38,Male
+1925,Chemistry,60,Male
+1925,Peace,62,Male
+1925,Peace,60,Male
+1925,Literature,69,Male
+1926,Physics,56,Male
+1926,Chemistry,42,Male
+1926,Physiology or Medicine,59,Male
+1926,Peace,64,Male
+1926,Peace,48,Male
+1926,Literature,55,Female
+1927,Physics,35,Male
+1927,Physics,58,Male
+1927,Chemistry,50,Male
+1927,Physiology or Medicine,70,Male
+1927,Peace,86,Male
+1927,Peace,69,Male
+1927,Literature,68,Male
+1928,Physics,49,Male
+1928,Chemistry,52,Male
+1928,Physiology or Medicine,62,Male
+1928,Literature,46,Female
+1929,Physics,37,Male
+1929,Chemistry,64,Male
+1929,Chemistry,56,Male
+1929,Physiology or Medicine,71,Male
+1929,Physiology or Medicine,68,Male
+1929,Peace,73,Male
+1929,Literature,54,Male
+1930,Physics,42,Male
+1930,Chemistry,49,Male
+1930,Physiology or Medicine,62,Male
+1930,Peace,64,Male
+1930,Literature,45,Male
+1931,Chemistry,57,Male
+1931,Chemistry,47,Male
+1931,Physiology or Medicine,48,Male
+1931,Peace,71,Female
+1931,Peace,69,Male
+1931,Literature,67,Male
+1932,Physics,31,Male
+1932,Chemistry,51,Male
+1932,Physiology or Medicine,75,Male
+1932,Physiology or Medicine,43,Male
+1932,Literature,65,Male
+1933,Physics,46,Male
+1933,Physics,31,Male
+1933,Physiology or Medicine,67,Male
+1933,Peace,61,Male
+1933,Literature,63,Male
+1934,Chemistry,41,Male
+1934,Physiology or Medicine,56,Male
+1934,Physiology or Medicine,49,Male
+1934,Physiology or Medicine,42,Male
+1934,Peace,71,Male
+1934,Literature,67,Male
+1935,Physics,44,Male
+1935,Chemistry,35,Male
+1935,Chemistry,38,Female
+1935,Physiology or Medicine,66,Male
+1935,Peace,46,Male
+1936,Physics,53,Male
+1936,Physics,31,Male
+1936,Chemistry,52,Male
+1936,Physiology or Medicine,61,Male
+1936,Physiology or Medicine,63,Male
+1936,Peace,58,Male
+1936,Literature,48,Male
+1937,Physics,56,Male
+1937,Physics,45,Male
+1937,Chemistry,54,Male
+1937,Chemistry,48,Male
+1937,Physiology or Medicine,44,Male
+1937,Peace,73,Male
+1937,Literature,56,Male
+1938,Physics,37,Male
+1938,Chemistry,38,Male
+1938,Physiology or Medicine,46,Male
+1938,Literature,46,Female
+1939,Physics,38,Male
+1939,Chemistry,36,Male
+1939,Chemistry,52,Male
+1939,Physiology or Medicine,44,Male
+1939,Literature,51,Male
+1943,Physics,55,Male
+1943,Chemistry,58,Male
+1943,Physiology or Medicine,48,Male
+1943,Physiology or Medicine,50,Male
+1944,Physics,46,Male
+1944,Chemistry,65,Male
+1944,Physiology or Medicine,70,Male
+1944,Physiology or Medicine,56,Male
+1944,Literature,71,Male
+1945,Physics,45,Male
+1945,Chemistry,50,Male
+1945,Physiology or Medicine,64,Male
+1945,Physiology or Medicine,39,Male
+1945,Physiology or Medicine,47,Male
+1945,Peace,74,Male
+1945,Literature,56,Female
+1946,Physics,64,Male
+1946,Chemistry,59,Male
+1946,Chemistry,55,Male
+1946,Chemistry,42,Male
+1946,Physiology or Medicine,56,Male
+1946,Peace,79,Female
+1946,Peace,81,Male
+1946,Literature,69,Male
+1947,Physics,55,Male
+1947,Chemistry,61,Male
+1947,Physiology or Medicine,51,Male
+1947,Physiology or Medicine,51,Female
+1947,Physiology or Medicine,60,Male
+1947,Literature,78,Male
+1948,Physics,51,Male
+1948,Chemistry,46,Male
+1948,Physiology or Medicine,49,Male
+1948,Literature,60,Male
+1949,Physics,42,Male
+1949,Chemistry,54,Male
+1949,Physiology or Medicine,68,Male
+1949,Physiology or Medicine,75,Male
+1949,Peace,69,Male
+1949,Literature,52,Male
+1950,Physics,47,Male
+1950,Chemistry,74,Male
+1950,Chemistry,48,Male
+1950,Physiology or Medicine,64,Male
+1950,Physiology or Medicine,53,Male
+1950,Physiology or Medicine,54,Male
+1950,Peace,46,Male
+1950,Literature,78,Male
+1951,Physics,54,Male
+1951,Physics,48,Male
+1951,Chemistry,44,Male
+1951,Chemistry,39,Male
+1951,Physiology or Medicine,52,Male
+1951,Peace,72,Male
+1951,Literature,60,Male
+1952,Physics,47,Male
+1952,Physics,40,Male
+1952,Chemistry,42,Male
+1952,Chemistry,38,Male
+1952,Physiology or Medicine,64,Male
+1952,Peace,77,Male
+1952,Literature,67,Male
+1953,Physics,65,Male
+1953,Chemistry,72,Male
+1953,Physiology or Medicine,53,Male
+1953,Physiology or Medicine,54,Male
+1953,Peace,73,Male
+1953,Literature,79,Male
+1954,Physics,72,Male
+1954,Physics,63,Male
+1954,Chemistry,53,Male
+1954,Physiology or Medicine,57,Male
+1954,Physiology or Medicine,39,Male
+1954,Physiology or Medicine,38,Male
+1954,Literature,55,Male
+1955,Physics,42,Male
+1955,Physics,44,Male
+1955,Chemistry,54,Male
+1955,Physiology or Medicine,52,Male
+1955,Literature,53,Male
+1956,Physics,46,Male
+1956,Physics,48,Male
+1956,Physics,54,Male
+1956,Chemistry,59,Male
+1956,Chemistry,60,Male
+1956,Physiology or Medicine,61,Male
+1956,Physiology or Medicine,52,Male
+1956,Physiology or Medicine,61,Male
+1956,Literature,75,Male
+1957,Physics,35,Male
+1957,Physics,31,Male
+1957,Chemistry,50,Male
+1957,Physiology or Medicine,50,Male
+1957,Peace,60,Male
+1957,Literature,44,Male
+1958,Physics,54,Male
+1958,Physics,63,Male
+1958,Chemistry,40,Male
+1958,Physiology or Medicine,55,Male
+1958,Physiology or Medicine,49,Male
+1958,Physiology or Medicine,33,Male
+1958,Peace,48,Male
+1958,Literature,68,Male
+1958,Physics,50,Male
+1959,Physics,54,Male
+1959,Physics,39,Male
+1959,Chemistry,69,Male
+1959,Physiology or Medicine,54,Male
+1959,Physiology or Medicine,41,Male
+1959,Peace,70,Male
+1959,Literature,58,Male
+1960,Physics,34,Male
+1960,Chemistry,52,Male
+1960,Physiology or Medicine,61,Male
+1960,Physiology or Medicine,45,Male
+1960,Peace,62,Male
+1960,Literature,73,Male
+1961,Physics,46,Male
+1961,Physics,32,Male
+1961,Chemistry,50,Male
+1961,Physiology or Medicine,62,Male
+1961,Peace,56,Male
+1961,Literature,69,Male
+1962,Physics,54,Male
+1962,Peace,61,Male
+1962,Chemistry,48,Male
+1962,Chemistry,45,Male
+1962,Physiology or Medicine,46,Male
+1962,Physiology or Medicine,34,Male
+1962,Physiology or Medicine,46,Male
+1962,Literature,60,Male
+1963,Physics,61,Male
+1963,Physics,57,Female
+1963,Physics,56,Male
+1963,Chemistry,65,Male
+1963,Chemistry,60,Male
+1963,Physiology or Medicine,60,Male
+1963,Physiology or Medicine,49,Male
+1963,Physiology or Medicine,46,Male
+1963,Literature,63,Male
+1964,Physics,49,Male
+1964,Physics,42,Male
+1964,Physics,48,Male
+1964,Chemistry,54,Female
+1964,Physiology or Medicine,52,Male
+1964,Physiology or Medicine,53,Male
+1964,Peace,35,Male
+1964,Literature,59,Male
+1965,Physics,59,Male
+1965,Physics,47,Male
+1965,Physics,47,Male
+1965,Chemistry,48,Male
+1965,Physiology or Medicine,45,Male
+1965,Physiology or Medicine,63,Male
+1965,Physiology or Medicine,55,Male
+1965,Literature,60,Male
+1966,Physics,64,Male
+1966,Chemistry,70,Male
+1966,Physiology or Medicine,87,Male
+1966,Physiology or Medicine,65,Male
+1966,Literature,78,Male
+1966,Literature,75,Female
+1967,Physics,61,Male
+1967,Chemistry,40,Male
+1967,Chemistry,70,Male
+1967,Chemistry,47,Male
+1967,Physiology or Medicine,67,Male
+1967,Physiology or Medicine,64,Male
+1967,Physiology or Medicine,61,Male
+1967,Literature,68,Male
+1968,Physics,57,Male
+1968,Chemistry,65,Male
+1968,Physiology or Medicine,46,Male
+1968,Physiology or Medicine,46,Male
+1968,Physiology or Medicine,41,Male
+1968,Peace,81,Male
+1968,Literature,69,Male
+1969,Physics,40,Male
+1969,Chemistry,51,Male
+1969,Chemistry,72,Male
+1969,Physiology or Medicine,63,Male
+1969,Physiology or Medicine,61,Male
+1969,Physiology or Medicine,57,Male
+1969,Literature,63,Male
+1969,economics,74,Male
+1969,economics,66,Male
+1970,Physics,62,Male
+1970,Physics,66,Male
+1970,Chemistry,64,Male
+1970,Physiology or Medicine,59,Male
+1970,Physiology or Medicine,65,Male
+1970,Physiology or Medicine,58,Male
+1970,Peace,56,Male
+1970,Literature,52,Male
+1970,economics,55,Male
+1971,Physics,71,Male
+1971,Chemistry,67,Male
+1971,Physiology or Medicine,56,Male
+1971,Peace,58,Male
+1971,Literature,67,Male
+1971,economics,70,Male
+1972,Physics,64,Male
+1972,Physics,42,Male
+1972,Physics,41,Male
+1972,Chemistry,56,Male
+1972,Chemistry,59,Male
+1972,Chemistry,61,Male
+1972,Physiology or Medicine,43,Male
+1972,Physiology or Medicine,55,Male
+1972,Literature,55,Male
+1972,economics,68,Male
+1972,economics,51,Male
+1973,Physics,48,Male
+1973,Physics,44,Male
+1973,Physics,33,Male
+1973,Chemistry,55,Male
+1973,Chemistry,52,Male
+1973,Physiology or Medicine,87,Male
+1973,Physiology or Medicine,70,Male
+1973,Physiology or Medicine,66,Male
+1973,Peace,50,Male
+1973,Peace,62,Male
+1973,Literature,61,Male
+1973,economics,67,Male
+1974,Physics,56,Male
+1974,Physics,50,Male
+1974,Chemistry,64,Male
+1974,Physiology or Medicine,76,Male
+1974,Physiology or Medicine,57,Male
+1974,Physiology or Medicine,62,Male
+1974,Peace,70,Male
+1974,Peace,73,Male
+1974,Literature,74,Male
+1974,Literature,70,Male
+1974,economics,76,Male
+1974,economics,75,Male
+1975,Physics,53,Male
+1975,Physics,49,Male
+1975,Physics,58,Male
+1975,Chemistry,58,Male
+1975,Chemistry,69,Male
+1975,Physiology or Medicine,37,Male
+1975,Physiology or Medicine,61,Male
+1975,Physiology or Medicine,41,Male
+1975,Peace,54,Male
+1975,Literature,79,Male
+1975,economics,63,Male
+1975,economics,65,Male
+1976,Physics,45,Male
+1976,Physics,40,Male
+1976,Chemistry,57,Male
+1976,Physiology or Medicine,51,Male
+1976,Physiology or Medicine,53,Male
+1976,Peace,33,Female
+1976,Peace,32,Female
+1976,Literature,61,Male
+1976,economics,64,Male
+1977,Physics,54,Male
+1977,Physics,72,Male
+1977,Physics,78,Male
+1977,Chemistry,60,Male
+1977,Physiology or Medicine,53,Male
+1977,Physiology or Medicine,51,Male
+1977,Physiology or Medicine,56,Female
+1977,Literature,79,Male
+1977,economics,78,Male
+1977,economics,70,Male
+1978,Physics,84,Male
+1978,Physics,45,Male
+1978,Physics,42,Male
+1978,Chemistry,58,Male
+1978,Physiology or Medicine,49,Male
+1978,Physiology or Medicine,50,Male
+1978,Physiology or Medicine,47,Male
+1978,Peace,60,Male
+1978,Peace,65,Male
+1978,Literature,74,Male
+1978,economics,62,Male
+1979,Physics,47,Male
+1979,Physics,53,Male
+1979,Physics,46,Male
+1979,Chemistry,67,Male
+1979,Chemistry,82,Male
+1979,Physiology or Medicine,55,Male
+1979,Physiology or Medicine,60,Male
+1979,Peace,69,Female
+1979,Literature,68,Male
+1979,economics,77,Male
+1979,economics,64,Male
+1980,Physics,49,Male
+1980,Physics,57,Male
+1980,Chemistry,62,Male
+1980,Chemistry,54,Male
+1980,Chemistry,48,Male
+1980,Physiology or Medicine,60,Male
+1980,Physiology or Medicine,64,Male
+1980,Physiology or Medicine,77,Male
+1980,Peace,49,Male
+1980,Literature,69,Male
+1980,economics,60,Male
+1981,Physics,61,Male
+1981,Physics,60,Male
+1981,Physics,63,Male
+1981,Chemistry,63,Male
+1981,Chemistry,44,Male
+1981,Physiology or Medicine,68,Male
+1981,Physiology or Medicine,55,Male
+1981,Physiology or Medicine,57,Male
+1981,Literature,76,Male
+1981,economics,63,Male
+1982,Physics,46,Male
+1982,Chemistry,56,Male
+1982,Physiology or Medicine,66,Male
+1982,Physiology or Medicine,48,Male
+1982,Physiology or Medicine,55,Male
+1982,Peace,80,Female
+1982,Peace,71,Male
+1982,Literature,55,Male
+1982,economics,71,Male
+1983,Physics,73,Male
+1983,Physics,72,Male
+1983,Chemistry,68,Male
+1983,Physiology or Medicine,81,Female
+1983,Peace,40,Male
+1983,Literature,72,Male
+1983,economics,62,Male
+1984,Physics,50,Male
+1984,Physics,59,Male
+1984,Chemistry,63,Male
+1984,Physiology or Medicine,73,Male
+1984,Physiology or Medicine,38,Male
+1984,Physiology or Medicine,57,Male
+1984,Peace,53,Male
+1984,Literature,83,Male
+1984,economics,71,Male
+1985,Physics,42,Male
+1985,Chemistry,68,Male
+1985,Chemistry,67,Male
+1985,Physiology or Medicine,44,Male
+1985,Physiology or Medicine,45,Male
+1985,Literature,72,Male
+1985,economics,67,Male
+1986,Physics,80,Male
+1986,Physics,39,Male
+1986,Physics,53,Male
+1986,Chemistry,54,Male
+1986,Chemistry,50,Male
+1986,Chemistry,57,Male
+1986,Physiology or Medicine,64,Male
+1986,Physiology or Medicine,77,Female
+1986,Peace,58,Male
+1986,Literature,52,Male
+1986,economics,67,Male
+1987,Physics,37,Male
+1987,Physics,60,Male
+1987,Chemistry,68,Male
+1987,Chemistry,48,Male
+1987,Chemistry,83,Male
+1987,Physiology or Medicine,48,Male
+1987,Peace,47,Male
+1987,Literature,47,Male
+1987,economics,63,Male
+1988,Physics,66,Male
+1988,Physics,56,Male
+1988,Physics,67,Male
+1988,Chemistry,45,Male
+1988,Chemistry,51,Male
+1988,Chemistry,40,Male
+1988,Physiology or Medicine,64,Male
+1988,Physiology or Medicine,70,Female
+1988,Physiology or Medicine,83,Male
+1988,Literature,77,Male
+1988,economics,77,Male
+1989,Physics,74,Male
+1989,Physics,67,Male
+1989,Physics,76,Male
+1989,Chemistry,50,Male
+1989,Chemistry,42,Male
+1989,Physiology or Medicine,53,Male
+1989,Physiology or Medicine,50,Male
+1989,Peace,54,Male
+1989,Literature,73,Male
+1989,economics,78,Male
+1990,Physics,60,Male
+1990,Physics,64,Male
+1990,Physics,61,Male
+1990,Chemistry,62,Male
+1990,Physiology or Medicine,71,Male
+1990,Physiology or Medicine,70,Male
+1990,Peace,59,Male
+1990,Literature,76,Male
+1990,economics,63,Male
+1990,economics,67,Male
+1990,economics,56,Male
+1991,Physics,59,Male
+1991,Chemistry,58,Male
+1991,Physiology or Medicine,47,Male
+1991,Physiology or Medicine,49,Male
+1991,Peace,46,Female
+1991,Literature,68,Female
+1991,economics,81,Male
+1992,Physics,68,Male
+1992,Chemistry,69,Male
+1992,Physiology or Medicine,72,Male
+1992,Physiology or Medicine,74,Male
+1992,Peace,33,Female
+1992,Literature,62,Male
+1992,economics,62,Male
+1993,Physics,43,Male
+1993,Physics,52,Male
+1993,Chemistry,49,Male
+1993,Chemistry,61,Male
+1993,Physiology or Medicine,50,Male
+1993,Physiology or Medicine,49,Male
+1993,Peace,75,Male
+1993,Peace,57,Male
+1993,Literature,62,Female
+1993,economics,66,Male
+1993,economics,73,Male
+1994,Physics,76,Male
+1994,Physics,79,Male
+1994,Chemistry,67,Male
+1994,Physiology or Medicine,53,Male
+1994,Physiology or Medicine,69,Male
+1994,Peace,65,Male
+1994,Peace,71,Male
+1994,Peace,72,Male
+1994,Literature,59,Male
+1994,economics,74,Male
+1994,economics,66,Male
+1994,economics,64,Male
+1995,Physics,68,Male
+1995,Physics,77,Male
+1995,Chemistry,62,Male
+1995,Chemistry,52,Male
+1995,Chemistry,68,Male
+1995,Physiology or Medicine,77,Male
+1995,Physiology or Medicine,53,Female
+1995,Physiology or Medicine,48,Male
+1995,Peace,87,Male
+1995,Literature,56,Male
+1995,economics,58,Male
+1996,Physics,65,Male
+1996,Physics,51,Male
+1996,Physics,59,Male
+1996,Chemistry,63,Male
+1996,Chemistry,57,Male
+1996,Chemistry,53,Male
+1996,Physiology or Medicine,56,Male
+1996,Physiology or Medicine,52,Male
+1996,Peace,48,Male
+1996,Peace,47,Male
+1996,Literature,73,Female
+1996,economics,60,Male
+1996,economics,82,Male
+1997,Physics,49,Male
+1997,Physics,64,Male
+1997,Physics,49,Male
+1997,Chemistry,79,Male
+1997,Chemistry,56,Male
+1997,Chemistry,79,Male
+1997,Physiology or Medicine,55,Male
+1997,Peace,47,Female
+1997,Literature,71,Male
+1997,economics,53,Male
+1997,economics,56,Male
+1998,Physics,48,Male
+1998,Physics,49,Male
+1998,Physics,59,Male
+1998,Chemistry,75,Male
+1998,Chemistry,73,Male
+1998,Physiology or Medicine,82,Male
+1998,Physiology or Medicine,57,Male
+1998,Physiology or Medicine,62,Male
+1998,Peace,61,Male
+1998,Peace,54,Male
+1998,Literature,76,Male
+1998,economics,65,Male
+1999,Physics,53,Male
+1999,Physics,68,Male
+1999,Chemistry,53,Male
+1999,Physiology or Medicine,63,Male
+1999,Literature,72,Male
+1999,economics,67,Male
+2000,Physiology or Medicine,77,Male
+2000,Physiology or Medicine,75,Male
+2000,Physiology or Medicine,71,Male
+2000,Peace,75,Male
+2000,Physics,70,Male
+2000,Physics,72,Male
+2000,Physics,77,Male
+2000,Chemistry,64,Male
+2000,Chemistry,73,Male
+2000,Chemistry,64,Male
+2000,economics,56,Male
+2000,economics,63,Male
+2000,Literature,60,Male
+2001,Physiology or Medicine,62,Male
+2001,Physiology or Medicine,58,Male
+2001,Physiology or Medicine,52,Male
+2001,Physics,40,Male
+2001,Physics,44,Male
+2001,Physics,50,Male
+2001,Chemistry,84,Male
+2001,Chemistry,63,Male
+2001,Chemistry,60,Male
+2001,economics,61,Male
+2001,economics,58,Male
+2001,economics,58,Male
+2001,Literature,69,Male
+2001,Peace,63,Male
+2002,Physiology or Medicine,75,Male
+2002,Physiology or Medicine,55,Male
+2002,Physiology or Medicine,60,Male
+2002,Physics,88,Male
+2002,Physics,76,Male
+2002,Physics,71,Male
+2002,Chemistry,85,Male
+2002,Chemistry,43,Male
+2002,Chemistry,64,Male
+2002,economics,68,Male
+2002,economics,75,Male
+2002,Literature,73,Male
+2002,Peace,78,Male
+2003,Literature,63,Male
+2003,Physiology or Medicine,74,Male
+2003,Physiology or Medicine,70,Male
+2003,Physics,75,Male
+2003,Physics,87,Male
+2003,Physics,65,Male
+2003,Chemistry,54,Male
+2003,Chemistry,47,Male
+2003,economics,61,Male
+2003,economics,69,Male
+2003,Peace,56,Female
+2004,Physiology or Medicine,58,Male
+2004,Physiology or Medicine,57,Female
+2004,Physics,63,Male
+2004,Physics,55,Male
+2004,Physics,53,Male
+2004,Chemistry,57,Male
+2004,Chemistry,67,Male
+2004,Chemistry,78,Male
+2004,Literature,58,Female
+2004,Peace,64,Female
+2004,economics,61,Male
+2004,economics,64,Male
+2005,Physiology or Medicine,54,Male
+2005,Physiology or Medicine,68,Male
+2005,Physics,80,Male
+2005,Physics,71,Male
+2005,Physics,64,Male
+2005,Chemistry,75,Male
+2005,Chemistry,63,Male
+2005,Chemistry,60,Male
+2005,Peace,63,Male
+2005,economics,75,Male
+2005,economics,84,Male
+2005,Literature,75,Male
+2006,Physiology or Medicine,47,Male
+2006,Physiology or Medicine,46,Male
+2006,Physics,60,Male
+2006,Physics,61,Male
+2006,Chemistry,59,Male
+2006,economics,73,Male
+2006,Literature,54,Male
+2006,Peace,66,Male
+2007,Physiology or Medicine,70,Male
+2007,Physiology or Medicine,66,Male
+2007,Physiology or Medicine,82,Male
+2007,Physics,69,Male
+2007,Physics,68,Male
+2007,Chemistry,71,Male
+2007,Literature,88,Female
+2007,Peace,59,Male
+2007,economics,90,Male
+2007,economics,57,Male
+2007,economics,56,Male
+2008,Physiology or Medicine,72,Male
+2008,Physiology or Medicine,61,Female
+2008,Physiology or Medicine,76,Male
+2008,Physics,87,Male
+2008,Physics,64,Male
+2008,Physics,68,Male
+2008,Chemistry,80,Male
+2008,Chemistry,61,Male
+2008,Chemistry,56,Male
+2008,Literature,68,Male
+2008,Peace,71,Male
+2008,economics,55,Male
+2009,Physiology or Medicine,61,Female
+2009,Physiology or Medicine,48,Female
+2009,Physiology or Medicine,57,Male
+2009,Physics,76,Male
+2009,Physics,85,Male
+2009,Physics,79,Male
+2009,Chemistry,57,Male
+2009,Chemistry,69,Male
+2009,Chemistry,70,Female
+2009,Literature,56,Female
+2009,Peace,48,Male
+2009,economics,76,Female
+2009,economics,77,Male
+2010,Physiology or Medicine,85,Male
+2010,Physics,52,Male
+2010,Physics,36,Male
+2010,Chemistry,79,Male
+2010,Chemistry,75,Male
+2010,Chemistry,80,Male
+2010,Literature,74,Male
+2010,Peace,55,Male
+2010,economics,70,Male
+2010,economics,71,Male
+2010,economics,62,Male
+2011,Physiology or Medicine,54,Male
+2011,Physiology or Medicine,70,Male
+2011,Physiology or Medicine,68,Male
+2011,Physics,52,Male
+2011,Physics,44,Male
+2011,Physics,42,Male
+2011,Chemistry,70,Male
+2011,Literature,80,Male
+2011,Peace,73,Female
+2011,Peace,39,Female
+2011,Peace,32,Female
+2011,economics,68,Male
+2011,economics,69,Male
+2012,Physiology or Medicine,79,Male
+2012,Physiology or Medicine,50,Male
+2012,Physics,68,Male
+2012,Physics,68,Male
+2012,Chemistry,69,Male
+2012,Chemistry,57,Male
+2012,Literature,57,Male
+2012,economics,61,Male
+2012,economics,89,Male
+2013,Physiology or Medicine,63,Male
+2013,Physiology or Medicine,65,Male
+2013,Physiology or Medicine,58,Male
+2013,Physics,81,Male
+2013,Physics,84,Male
+2013,Chemistry,83,Male
+2013,Chemistry,66,Male
+2013,Chemistry,73,Male
+2013,Literature,82,Female
+2013,economics,74,Male
+2013,economics,61,Male
+2013,economics,67,Male
+2014,Physiology or Medicine,75,Male
+2014,Physiology or Medicine,51,Female
+2014,Physiology or Medicine,52,Male
+2014,Physics,85,Male
+2014,Physics,54,Male
+2014,Physics,60,Male
+2014,Chemistry,54,Male
+2014,Chemistry,52,Male
+2014,Chemistry,61,Male
+2014,Literature,69,Male
+2014,Peace,60,Male
+2014,Peace,17,Female
+2014,economics,61,Male
+2015,Physiology or Medicine,85,Male
+2015,Physiology or Medicine,80,Male
+2015,Physiology or Medicine,85,Female
+2015,Physics,56,Male
+2015,Physics,72,Male
+2015,Chemistry,77,Male
+2015,Chemistry,69,Male
+2015,Chemistry,69,Male
+2015,Literature,67,Female
+2015,economics,70,Male
+2016,Physiology or Medicine,71,Male
+2016,Physics,82,Male
+2016,Physics,65,Male
+2016,Physics,73,Male
+2016,Chemistry,72,Male
+2016,Chemistry,74,Male
+2016,Chemistry,65,Male
+2016,Peace,65,Male
+2016,economics,68,Male
+2016,economics,67,Male
+2016,Literature,75,Male
+2017,Physiology or Medicine,72,Male
+2017,Physiology or Medicine,73,Male
+2017,Physiology or Medicine,68,Male
+2017,Physics,85,Male
+2017,Physics,81,Male
+2017,Physics,77,Male
+2017,Chemistry,75,Male
+2017,Chemistry,77,Male
+2017,Chemistry,72,Male
+2017,Literature,63,Male
+2017,economics,72,Male
+2018,Physiology or Medicine,70,Male
+2018,Physiology or Medicine,76,Male
+2018,Physics,96,Male
+2018,Physics,74,Male
+2018,Physics,59,Female
+2018,Chemistry,62,Female
+2018,Chemistry,77,Male
+2018,Chemistry,67,Male
+2018,Peace,63,Male
+2018,Peace,25,Female
+2018,economics,77,Male
+2018,economics,63,Male
+2018,Literature,56,Female
+2019,Physiology or Medicine,62,Male
+2019,Physiology or Medicine,65,Male
+2019,Physiology or Medicine,63,Male
+2019,Physics,84,Male
+2019,Physics,77,Male
+2019,Physics,53,Male
+2019,Chemistry,97,Male
+2019,Chemistry,78,Male
+2019,Chemistry,71,Male
+2019,Literature,77,Male
+2019,Peace,43,Male
+2019,economics,58,Male
+2019,economics,47,Female
+2019,economics,55,Male
