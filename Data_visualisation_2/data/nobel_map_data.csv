@@ -1,0 +1,976 @@
+awardYear,category,gender,fullName,laureateType,gender,birthCountryNow
+1901,Chemistry,male,Jacobus Henricus van 't Hoff,Individual,male,Netherlands
+1901,Literature,male,Sully Prudhomme,Individual,male,France
+1901,Peace,male,FrÇdÇricˇPassy,Individual,male,France
+1901,Peace,male,Jean Henry Dunant,Individual,male,Switzerland
+1901,Physics,male,Wilhelm Conrad Rîntgen,Individual,male,Germany
+1901,Physiology or Medicine,male,Emil Adolf von Behring,Individual,male,Poland
+1902,Chemistry,male,Hermann Emil Fischer,Individual,male,Germany
+1902,Literature,male,Christian Matthias Theodor Mommsen,Individual,male,Germany
+1902,Peace,male,Charles Albert Gobat,Individual,male,Switzerland
+1902,Peace,male,êlie Ducommun,Individual,male,Switzerland
+1902,Physics,male,Hendrik Antoon Lorentz,Individual,male,Netherlands
+1902,Physics,male,Pieter Zeeman,Individual,male,Netherlands
+1902,Physiology or Medicine,male,Ronald Ross,Individual,male,India
+1903,Chemistry,male,Svante August Arrhenius,Individual,male,Sweden
+1903,Literature,male,Bjîrnson Bjîrnstjerne Martinus,Individual,male,Norway
+1903,Peace,male,William Randal Cremer,Individual,male,United Kingdom
+1903,Physics,male,Antoine Henri Becquerel,Individual,male,France
+1903,Physics,female,MarieˇSalomeaˇSk?odowska?Curie,Individual,female,Poland
+1903,Physics,male,Pierre Curie,Individual,male,France
+1903,Physiology or Medicine,male,Niels Ryberg Finsen,Individual,male,Faroe Islands (Denmark)
+1904,Chemistry,male,Sir William Ramsay,Individual,male,Scotland
+1904,Literature,male,Joseph êtienne FrÇdÇric Mistral,Individual,male,France
+1904,Literature,male,JosÇ Echegaray,Individual,male,Spain
+1904,Peace,,,Organization,,
+1904,Physics,male,Lord Rayleigh (John William Strutt),Individual,male,United Kingdom
+1904,Physiology or Medicine,male,Ivan Petrovich Pavlov,Individual,male,Russia
+1905,Chemistry,male,Johann Friedrich Wilhelm Adolf von Baeyer,Individual,male,Germany
+1905,Literature,male,Henryk Sienkiewicz,Individual,male,Poland
+1905,Peace,female,"Baroness Bertha Sophie Felicita von Suttner, n??e Countess Kinsky von Chinic und Tettau",Individual,female,Czech Republic
+1905,Physics,male,Philipp Eduard Anton von Lenard,Individual,male,Slovakia
+1905,Physiology or Medicine,male,Robert Koch,Individual,male,Germany
+1906,Chemistry,male,Henri Moissan,Individual,male,France
+1906,Literature,male,Giosuä Carducci,Individual,male,Italy
+1906,Peace,male,Theodore Roosevelt Jr,Individual,male,United States of America
+1906,Physics,male,Joseph John Thomson,Individual,male,United Kingdom
+1906,Physiology or Medicine,male,Camillo Golgi,Individual,male,Italy
+1906,Physiology or Medicine,male,Santiago Ram¢n y Cajal,Individual,male,Spain
+1907,Chemistry,male,Eduard Buchner,Individual,male,Germany
+1907,Literature,male,Rudyard Kipling,Individual,male,India
+1907,Peace,male,Ernesto Teodoro Moneta,Individual,male,Italy
+1907,Peace,male,Louis Renault,Individual,male,France
+1907,Physics,male,Albert Abraham Michelson,Individual,male,Poland
+1907,Physiology or Medicine,male,Charles Louis Alphonse Laveran,Individual,male,France
+1908,Chemistry,male,Ernest Rutherford,Individual,male,New Zealand
+1908,Literature,male,Rudolf Christoph Eucken,Individual,male,Germany
+1908,Peace,male,Fredrik Bajer,Individual,male,Denmark
+1908,Peace,male,Klas Pontus Arnoldson,Individual,male,Sweden
+1908,Physics,male,Gabriel Lippmann,Individual,male,Luxembourg
+1908,Physiology or Medicine,male,Ilya Ilyich Mechnikov,Individual,male,Ukraine
+1908,Physiology or Medicine,male,Paul Ehrlich,Individual,male,Poland
+1909,Chemistry,male,Wilhelm Ostwald,Individual,male,Latvia
+1909,Literature,female,Selma Ottilia Lovisa Lagerlîf,Individual,female,Sweden
+1909,Peace,male,Auguste Marie Franáois Beernaert,Individual,male,Belgium
+1909,Peace,male,Paul Henri Balluet d'Estournelles de Constant,Individual,male,France
+1909,Physics,male,Karl Ferdinand Braun,Individual,male,Germany
+1909,Physics,male,Guglielmo Marconi,Individual,male,Italy
+1909,Physiology or Medicine,male,Emil Theodor Kocher,Individual,male,Switzerland
+1910,Chemistry,male,Otto Wallach,Individual,male,Russia
+1910,Literature,male,Paul Johann Ludwig Heyse,Individual,male,Germany
+1910,Peace,,,Organization,,
+1910,Physics,male,Johannes Diderik van der Waals,Individual,male,Netherlands
+1910,Physiology or Medicine,male,Albrecht Kossel,Individual,male,Germany
+1911,Chemistry,female,MarieˇSalomeaˇSk?odowska?Curie,Individual,female,Poland
+1911,Literature,male,Count Maurice (Mooris) Polidore Marie Bernhard Maeterlinck,Individual,male,Belgium
+1911,Peace,male,Alfred Hermann Fried,Individual,male,Austria
+1911,Peace,male,Tobias Michael Carel Asser,Individual,male,Netherlands
+1911,Physics,male,Wilhelm Wien,Individual,male,Russia
+1911,Physiology or Medicine,male,Allvar Gullstrand,Individual,male,Sweden
+1912,Chemistry,male,Paul Sabatier,Individual,male,France
+1912,Chemistry,male,Victor Grignard,Individual,male,France
+1912,Literature,male,Gerhart Johann Robert Hauptmann,Individual,male,Poland
+1912,Peace,male,Elihu Root,Individual,male,United States of America
+1912,Physics,male,Nils Gustaf Dal??n,Individual,male,Sweden
+1912,Physiology or Medicine,male,Alexis Carrel,Individual,male,France
+1913,Chemistry,male,Alfred Werner,Individual,male,France
+1913,Literature,male,Rabindranath Tagore,Individual,male,India
+1913,Peace,male,Henri La Fontaine,Individual,male,Belgium
+1913,Physics,male,Heike Kamerlingh Onnes,Individual,male,Netherlands
+1913,Physiology or Medicine,male,Charles Robert Richet,Individual,male,France
+1914,Chemistry,male,Theodore William Richards,Individual,male,United States of America
+1914,Physics,male,Max von Laue,Individual,male,Germany
+1914,Physiology or Medicine,male,Robert B?≠r?≠ny,Individual,male,Austria
+1915,Chemistry,male,Richard Martin Willst??tter,Individual,male,Germany
+1915,Literature,male,Romain Rolland,Individual,male,France
+1915,Physics,male,William Lawrence Bragg,Individual,male,Australia
+1915,Physics,male,Sir William Henry Bragg,Individual,male,United Kingdom
+1916,Literature,male,Carl Gustaf Verner von Heidenstam,Individual,male,Sweden
+1917,Literature,male,Henrik Pontoppidan,Individual,male,Denmark
+1917,Literature,male,Karl Adolph Gjellerup,Individual,male,Denmark
+1917,Peace,,,Organization,,
+1917,Physics,male,Charles Glover Barkla,Individual,male,United Kingdom
+1918,Chemistry,male,Fritz Haber,Individual,male,Poland
+1918,Physics,male,Max Karl Ernst Ludwig Planck,Individual,male,Germany
+1919,Literature,male,Carl Friedrich Georg Spitteler,Individual,male,Switzerland
+1919,Peace,male,Thomas Woodrow Wilson,Individual,male,United States of America
+1919,Physics,male,Johannes Stark,Individual,male,Germany
+1919,Physiology or Medicine,male,Jules Bordet,Individual,male,Belgium
+1920,Chemistry,male,Walther Hermann Nernst,Individual,male,Germany
+1920,Literature,male,Knut Pedersen Hamsun,Individual,male,Norway
+1920,Peace,male,L??on Victor Auguste Bourgeois,Individual,male,France
+1920,Physics,male,Charles Edouard Guillaume,Individual,male,Switzerland
+1920,Physiology or Medicine,male,Schack August Steenberg Krogh,Individual,male,Denmark
+1921,Chemistry,male,Frederick Soddy,Individual,male,United Kingdom
+1921,Literature,male,Anatole France,Individual,male,France
+1921,Peace,male,Christian Lous Lange,Individual,male,Norway
+1921,Peace,male,Karl Hjalmar Branting,Individual,male,Sweden
+1921,Physics,male,Albert Einstein,Individual,male,Germany
+1922,Chemistry,male,Francis William Aston,Individual,male,United Kingdom
+1922,Literature,male,Jacinto Benavente,Individual,male,Spain
+1922,Peace,male,Fridtjof Nansen,Individual,male,Norway
+1922,Physics,male,Niels Henrik David Bohr,Individual,male,Denmark
+1922,Physiology or Medicine,male,Archibald Vivian Hill,Individual,male,United Kingdom
+1922,Physiology or Medicine,male,Otto Fritz Meyerhof,Individual,male,Germany
+1923,Chemistry,male,Fritz Pregl,Individual,male,Slovenia
+1923,Literature,male,William Butler Yeats,Individual,male,Ireland
+1923,Physics,male,Robert Andrews Millikan,Individual,male,United States of America
+1923,Physiology or Medicine,male,Frederick Grant Banting,Individual,male,Canada
+1923,Physiology or Medicine,male,John James Rickard Macleod,Individual,male,Scotland
+1924,Literature,male,Wladyslaw Stanislaw Reymont,Individual,male,Poland
+1924,Physics,male,Karl Manne Georg Siegbahn,Individual,male,Sweden
+1924,Physiology or Medicine,male,Willem Einthoven,Individual,male,Indonesia
+1925,Chemistry,male,Richard Adolf Zsigmondy,Individual,male,Austria
+1925,Literature,male,George Bernard Shaw,Individual,male,Ireland
+1925,Peace,male,Charles Gates Dawes,Individual,male,United States of America
+1925,Peace,male,Sir Austen Chamberlain,Individual,male,United Kingdom
+1925,Physics,male,Gustav Ludwig Hertz,Individual,male,Germany
+1925,Physics,male,James Franck,Individual,male,Germany
+1926,Chemistry,male,The (Theodor) Svedberg,Individual,male,Sweden
+1926,Literature,female,Grazia Deledda,Individual,female,Italy
+1926,Peace,male,Aristide Briand,Individual,male,France
+1926,Peace,male,Gustav Stresemann,Individual,male,Germany
+1926,Physics,male,Jean Baptiste Perrin,Individual,male,France
+1926,Physiology or Medicine,male,Johannes Andreas Grib Fibiger,Individual,male,Denmark
+1927,Chemistry,male,Heinrich Otto Wieland,Individual,male,Germany
+1927,Literature,male,Henri Bergson,Individual,male,France
+1927,Peace,male,Ferdinand Buisson,Individual,male,France
+1927,Peace,male,Ludwig Quidde,Individual,male,Germany
+1927,Physics,male,Arthur Holly Compton,Individual,male,United States of America
+1927,Physics,male,Charles Thomson Rees Wilson,Individual,male,Scotland
+1927,Physiology or Medicine,male,Julius Wagner-Jauregg,Individual,male,Austria
+1928,Chemistry,male,Adolf Otto Reinhold Windaus,Individual,male,Germany
+1928,Literature,female,Sigrid Undset,Individual,female,Denmark
+1928,Physics,male,Owen Willans Richardson,Individual,male,United Kingdom
+1928,Physiology or Medicine,male,Charles Jules Henri Nicolle,Individual,male,France
+1929,Chemistry,male,Arthur Harden,Individual,male,United Kingdom
+1929,Chemistry,male,Hans Karl August Simon von Euler-Chelpin,Individual,male,Germany
+1929,Literature,male,Thomas Mann,Individual,male,Germany
+1929,Peace,male,Frank Billings Kellogg,Individual,male,United States of America
+1929,Physics,male,Prince Louis-Victor Pierre Raymond de Broglie,Individual,male,France
+1929,Physiology or Medicine,male,Christiaan Eijkman,Individual,male,Netherlands
+1929,Physiology or Medicine,male,Sir Frederick Gowland Hopkins,Individual,male,United Kingdom
+1930,Chemistry,male,Hans Fischer,Individual,male,Germany
+1930,Literature,male,Sinclair Lewis,Individual,male,United States of America
+1930,Peace,male,Lars Olof Jonathan (Nathan) S??derblom,Individual,male,Sweden
+1930,Physics,male,Sir Chandrasekhara Venkata Raman,Individual,male,India
+1930,Physiology or Medicine,male,Karl Landsteiner,Individual,male,Austria
+1931,Chemistry,male,Carl Bosch,Individual,male,Germany
+1931,Chemistry,male,Friedrich Bergius,Individual,male,Poland
+1931,Literature,male,Erik Axel Karlfeldt,Individual,male,Sweden
+1931,Peace,female,Jane Addams,Individual,female,United States of America
+1931,Peace,male,Nicholas Murray Butler,Individual,male,United States of America
+1931,Physiology or Medicine,male,Otto Heinrich Warburg,Individual,male,Germany
+1932,Chemistry,male,Irving Langmuir,Individual,male,United States of America
+1932,Literature,male,John Galsworthy,Individual,male,United Kingdom
+1932,Physics,male,Werner Karl Heisenberg,Individual,male,Germany
+1932,Physiology or Medicine,male,Edgar Douglas Adrian,Individual,male,United Kingdom
+1932,Physiology or Medicine,male,Sir Charles Scott Sherrington,Individual,male,United Kingdom
+1933,Literature,male,Ivan Alekseyevich Bunin,Individual,male,Russia
+1933,Peace,male,Sir Norman Angell (Ralph Lane),Individual,male,United Kingdom
+1933,Physics,male,Erwin Schrîdinger,Individual,male,Austria
+1933,Physics,male,Paul Adrien Maurice Dirac,Individual,male,United Kingdom
+1933,Physiology or Medicine,male,Thomas Hunt Morgan,Individual,male,United States of America
+1934,Chemistry,male,Harold Clayton Urey,Individual,male,United States of America
+1934,Literature,male,Luigi Pirandello,Individual,male,Italy
+1934,Peace,male,Arthur Henderson,Individual,male,Scotland
+1934,Physiology or Medicine,male,George Hoyt Whipple,Individual,male,United States of America
+1934,Physiology or Medicine,male,George Richards Minot,Individual,male,United States of America
+1934,Physiology or Medicine,male,William Parry Murphy,Individual,male,United States of America
+1935,Chemistry,male,Fr??d??ric Joliot,Individual,male,France
+1935,Chemistry,female,Ir??ne Joliot-Curie,Individual,female,France
+1935,Peace,male,Carl von Ossietzky,Individual,male,Germany
+1935,Physics,male,James Chadwick,Individual,male,United Kingdom
+1935,Physiology or Medicine,male,Hans Spemann,Individual,male,Germany
+1936,Chemistry,male,Petrus (Peter) Josephus Wilhelmus Debye,Individual,male,Netherlands
+1936,Literature,male,Eugene Gladstone O'Neill,Individual,male,United States of America
+1936,Peace,male,Carlos Saavedra Lamas,Individual,male,Argentina
+1936,Physics,male,Carl David Anderson,Individual,male,United States of America
+1936,Physics,male,Victor Franz Hess,Individual,male,Austria
+1936,Physiology or Medicine,male,Otto Loewi,Individual,male,Germany
+1936,Physiology or Medicine,male,Sir Henry Hallett Dale,Individual,male,United Kingdom
+1937,Chemistry,male,Walter Norman Haworth,Individual,male,United Kingdom
+1937,Chemistry,male,Paul Karrer,Individual,male,Russia
+1937,Literature,male,Roger Martin du Gard,Individual,male,France
+1937,Peace,male,"Edgar Algernon Robert Gascoyne-Cecil, 1st Viscount Cecil of Chelwood",Individual,male,United Kingdom
+1937,Physics,male,Clinton Joseph Davisson,Individual,male,United States of America
+1937,Physics,male,George Paget Thomson,Individual,male,United Kingdom
+1937,Physiology or Medicine,male,Albert Szent-Gyîrgyi,Individual,male,Hungary
+1938,Chemistry,male,Richard Kuhn,Individual,male,Austria
+1938,Literature,female,Pearl Buck,Individual,female,United States of America
+1938,Peace,,,Organization,,
+1938,Physics,male,Enrico Fermi,Individual,male,Italy
+1938,Physiology or Medicine,male,Corneille Jean Fran??ois Heymans,Individual,male,Belgium
+1939,Chemistry,male,Adolf Friedrich Johann Butenandt,Individual,male,Germany
+1939,Chemistry,male,Leopold Ruzicka,Individual,male,Croatia
+1939,Literature,male,Frans Eemil SillanpÑÑ,Individual,male,Finland
+1939,Physics,male,Ernest Orlando Lawrence,Individual,male,United States of America
+1939,Physiology or Medicine,male,Gerhard Domagk,Individual,male,Poland
+1943,Chemistry,male,George de Hevesy,Individual,male,Hungary
+1943,Physics,male,Otto Stern,Individual,male,Poland
+1943,Physiology or Medicine,male,Edward Adelbert Doisy,Individual,male,United States of America
+1943,Physiology or Medicine,male,Henrik Carl Peter Dam,Individual,male,Denmark
+1944,Chemistry,male,Otto Hahn,Individual,male,Germany
+1944,Literature,male,Johannes Vilhelm Jensen,Individual,male,Denmark
+1944,Peace,,,Organization,,
+1944,Physics,male,Isidor Isaac Rabi,Individual,male,Poland
+1944,Physiology or Medicine,male,Herbert Spencer Gasser,Individual,male,United States of America
+1944,Physiology or Medicine,male,Joseph Erlanger,Individual,male,United States of America
+1945,Chemistry,male,Artturi Ilmari Virtanen,Individual,male,Finland
+1945,Literature,female,Gabriela Mistral,Individual,female,Chile
+1945,Peace,male,Cordell Hull,Individual,male,United States of America
+1945,Physics,male,Wolfgang Pauli,Individual,male,Austria
+1945,Physiology or Medicine,male,Ernst Boris Chain,Individual,male,Germany
+1945,Physiology or Medicine,male,Sir Alexander Fleming,Individual,male,Scotland
+1945,Physiology or Medicine,male,Sir Howard Walter Florey,Individual,male,Australia
+1946,Chemistry,male,James Batcheller Sumner,Individual,male,United States of America
+1946,Chemistry,male,John Howard Northrop,Individual,male,United States of America
+1946,Chemistry,male,Wendell Meredith Stanley,Individual,male,United States of America
+1946,Literature,male,Hermann Hesse,Individual,male,Germany
+1946,Peace,female,Emily Greene Balch,Individual,female,United States of America
+1946,Peace,male,John Raleigh Mott,Individual,male,United States of America
+1946,Physics,male,Percy Williams Bridgman,Individual,male,United States of America
+1946,Physiology or Medicine,male,Hermann Joseph Muller,Individual,male,United States of America
+1947,Chemistry,male,Sir Robert Robinson,Individual,male,United Kingdom
+1947,Literature,male,Andr?? Paul Guillaume Gide,Individual,male,France
+1947,Peace,,,Organization,,
+1947,Peace,,,Organization,,
+1947,Physics,male,Sir Edward Victor Appleton,Individual,male,United Kingdom
+1947,Physiology or Medicine,male,Bernardo Alberto Houssay,Individual,male,Argentina
+1947,Physiology or Medicine,male,Carl Ferdinand Cori,Individual,male,Czech Republic
+1947,Physiology or Medicine,female,"Gerty Theresa Cori, n??e Radnitz",Individual,female,Czech Republic
+1948,Chemistry,male,Arne Wilhelm Kaurin Tiselius,Individual,male,Sweden
+1948,Literature,male,Thomas Stearns Eliot,Individual,male,United States of America
+1948,Physics,male,Patrick Maynard Stuart Blackett,Individual,male,United Kingdom
+1948,Physiology or Medicine,male,Paul Hermann M?¨ller,Individual,male,Switzerland
+1949,Chemistry,male,William Francis Giauque,Individual,male,Canada
+1949,Literature,male,William Faulkner,Individual,male,United States of America
+1949,Peace,male,"John Boyd Orr, Baron Boyd-Orr of Brechin Mearn",Individual,male,Scotland
+1949,Physics,male,Hideki Yukawa,Individual,male,Japan
+1949,Physiology or Medicine,male,Antonio Caetano de Abreu Freire Egas Moniz,Individual,male,Portugal
+1949,Physiology or Medicine,male,Walter Rudolf Hess,Individual,male,Switzerland
+1950,Chemistry,male,Kurt Alder,Individual,male,Poland
+1950,Chemistry,male,Otto Paul Hermann Diels,Individual,male,Germany
+1950,Literature,male,Earl (Bertrand Arthur William) Russell,Individual,male,United Kingdom
+1950,Peace,male,Ralph Bunche,Individual,male,United States of America
+1950,Physics,male,Cecil Frank Powell,Individual,male,United Kingdom
+1950,Physiology or Medicine,male,Edward Calvin Kendall,Individual,male,United States of America
+1950,Physiology or Medicine,male,Philip Showalter Hench,Individual,male,United States of America
+1950,Physiology or Medicine,male,Tadeus Reichstein,Individual,male,Poland
+1951,Chemistry,male,Edwin Mattison McMillan,Individual,male,United States of America
+1951,Chemistry,male,Glenn Theodore Seaborg,Individual,male,United States of America
+1951,Literature,male,P??r Fabian Lagerkvist,Individual,male,Sweden
+1951,Peace,male,L??on Jouhaux,Individual,male,France
+1951,Physics,male,Ernest Thomas Sinton Walton,Individual,male,Ireland
+1951,Physics,male,Sir John Douglas Cockcroft,Individual,male,United Kingdom
+1951,Physiology or Medicine,male,Max Theiler,Individual,male,South Africa
+1952,Chemistry,male,Archer John Porter Martin,Individual,male,United Kingdom
+1952,Chemistry,male,Richard Laurence Millington Synge,Individual,male,United Kingdom
+1952,Literature,male,Fran??ois Mauriac,Individual,male,France
+1952,Peace,male,Albert Schweitzer,Individual,male,France
+1952,Physics,male,Edward Mills Purcell,Individual,male,United States of America
+1952,Physics,male,Felix Bloch,Individual,male,Switzerland
+1952,Physiology or Medicine,male,Selman Abraham Waksman,Individual,male,Ukraine
+1953,Chemistry,male,Hermann Staudinger,Individual,male,Germany
+1953,Literature,male,Sir Winston Leonard Spencer Churchill,Individual,male,United Kingdom
+1953,Peace,male,George Catlett Marshall,Individual,male,United States of America
+1953,Physics,male,Frits Zernike,Individual,male,Netherlands
+1953,Physiology or Medicine,male,Fritz Albert Lipmann,Individual,male,Russia
+1953,Physiology or Medicine,male,Hans Adolf Krebs,Individual,male,Germany
+1954,Chemistry,male,Linus Carl Pauling,Individual,male,United States of America
+1954,Literature,male,Ernest Miller Hemingway,Individual,male,United States of America
+1954,Peace,,,Organization,,
+1954,Physics,male,Max Born,Individual,male,Poland
+1954,Physics,male,Walther Bothe,Individual,male,Germany
+1954,Physiology or Medicine,male,Frederick Chapman Robbins,Individual,male,United States of America
+1954,Physiology or Medicine,male,John Franklin Enders,Individual,male,United States of America
+1954,Physiology or Medicine,male,Thomas Huckle Weller,Individual,male,United States of America
+1955,Chemistry,male,Vincent du Vigneaud,Individual,male,United States of America
+1955,Literature,male,Halld??r Kiljan Laxness,Individual,male,Iceland
+1955,Physics,male,Polykarp Kusch,Individual,male,Germany
+1955,Physics,male,Willis Eugene Lamb,Individual,male,United States of America
+1955,Physiology or Medicine,male,Axel Hugo Theodor Theorell,Individual,male,Sweden
+1956,Chemistry,male,Nikolay Nikolaevich Semenov,Individual,male,Russia
+1956,Chemistry,male,Sir Cyril Norman Hinshelwood,Individual,male,United Kingdom
+1956,Literature,male,Juan Ram??n Jim??nez,Individual,male,Spain
+1956,Physics,male,John Bardeen,Individual,male,United States of America
+1956,Physics,male,Walter Houser Brattain,Individual,male,China
+1956,Physics,male,William Bradford Shockley,Individual,male,United Kingdom
+1956,Physiology or Medicine,male,Andr?? Fr??d??ric Cournand,Individual,male,France
+1956,Physiology or Medicine,male,Dickinson W. Richards,Individual,male,United States of America
+1956,Physiology or Medicine,male,Werner Forssmann,Individual,male,Germany
+1957,Chemistry,male,Lord (Alexander R.) Todd,Individual,male,Scotland
+1957,Literature,male,Albert Camus,Individual,male,Algeria
+1957,Peace,male,Lester Bowles Pearson,Individual,male,Canada
+1957,Physics,male,Chen Ning Yang,Individual,male,China
+1957,Physics,male,Tsung-Dao (T.D.) Lee,Individual,male,China
+1957,Physiology or Medicine,male,Daniel Bovet,Individual,male,Switzerland
+1958,Chemistry,male,Frederick Sanger,Individual,male,United Kingdom
+1958,Literature,male,Boris Leonidovich Pasternak,Individual,male,Russia
+1958,Peace,male,Georges Pire,Individual,male,Belgium
+1958,Physics,male,Igor Yevgenyevich Tamm,Individual,male,Russia
+1958,Physics,male,Il??ja Mikhailovich Frank,Individual,male,Russia
+1958,Physics,male,Pavel Alekseyevich Cherenkov,Individual,male,Russia
+1958,Physiology or Medicine,male,Edward Lawrie Tatum,Individual,male,United States of America
+1958,Physiology or Medicine,male,George Wells Beadle,Individual,male,United States of America
+1958,Physiology or Medicine,male,Joshua Lederberg,Individual,male,United States of America
+1959,Chemistry,male,Jaroslav Heyrovsky,Individual,male,Czech Republic
+1959,Literature,male,Salvatore Quasimodo,Individual,male,Italy
+1959,Peace,male,Philip J. Noel-Baker,Individual,male,United Kingdom
+1959,Physics,male,Emilio Gino Segr??,Individual,male,Italy
+1959,Physics,male,Owen Chamberlain,Individual,male,United States of America
+1959,Physiology or Medicine,male,Arthur Kornberg,Individual,male,United States of America
+1959,Physiology or Medicine,male,Severo Ochoa,Individual,male,Spain
+1960,Chemistry,male,Willard Frank Libby,Individual,male,United States of America
+1960,Literature,male,Saint-John Perse,Individual,male,Guadeloupe Island
+1960,Peace,male,Albert John Luthuli,Individual,male,Zimbabwe
+1960,Physics,male,Donald Arthur Glaser,Individual,male,United States of America
+1960,Physiology or Medicine,male,Peter Brian Medawar,Individual,male,Brazil
+1960,Physiology or Medicine,male,Sir Frank Macfarlane Burnet,Individual,male,Australia
+1961,Chemistry,male,Melvin Calvin,Individual,male,United States of America
+1961,Literature,male,Ivo Andric,Individual,male,Bosnia and Herzegovina
+1961,Peace,male,Dag Hjalmar Agne CarlˇHammarskjîld,Individual,male,Sweden
+1961,Physics,male,Robert Hofstadter,Individual,male,United States of America
+1961,Physics,male,Rudolf Ludwig Mîssbauer,Individual,male,Germany
+1961,Physiology or Medicine,male,Georg von B??k??sy,Individual,male,Hungary
+1962,Chemistry,male,John Cowdery Kendrew,Individual,male,United Kingdom
+1962,Chemistry,male,Max Ferdinand Perutz,Individual,male,Austria
+1962,Literature,male,John Steinbeck,Individual,male,United States of America
+1962,Peace,male,Linus Carl Pauling,Individual,male,United States of America
+1962,Physics,male,Lev Davidovich Landau,Individual,male,Azerbaijan
+1962,Physiology or Medicine,male,Francis Harry Compton Crick,Individual,male,United Kingdom
+1962,Physiology or Medicine,male,James Dewey Watson,Individual,male,United States of America
+1962,Physiology or Medicine,male,Maurice Hugh Frederick Wilkins,Individual,male,New Zealand
+1963,Chemistry,male,Giulio Natta,Individual,male,Italy
+1963,Chemistry,male,Karl Ziegler,Individual,male,Germany
+1963,Literature,male,Giorgos Seferis,Individual,male,Turkey
+1963,Peace,,,Organization,,
+1963,Peace,,,Organization,,
+1963,Physics,male,Eugene Paul Wigner,Individual,male,Hungary
+1963,Physics,male,J. Hans D. Jensen,Individual,male,Germany
+1963,Physics,female,Maria Goeppert Mayer,Individual,female,Poland
+1963,Physiology or Medicine,male,Alan Lloyd Hodgkin,Individual,male,United Kingdom
+1963,Physiology or Medicine,male,Andrew Fielding Huxley,Individual,male,United Kingdom
+1963,Physiology or Medicine,male,Sir John Carew Eccles,Individual,male,Australia
+1964,Chemistry,female,Dorothy Crowfoot Hodgkin,Individual,female,Egypt
+1964,Literature,male,Jean-Paul Sartre,Individual,male,France
+1964,Peace,male,Martin Luther King Jr.,Individual,male,United States of America
+1964,Physics,male,Aleksandr Mikhailovich Prokhorov,Individual,male,Australia
+1964,Physics,male,Charles Hard Townes,Individual,male,United States of America
+1964,Physics,male,Nicolay Gennadiyevich Basov,Individual,male,Russia
+1964,Physiology or Medicine,male,Feodor Lynen,Individual,male,Germany
+1964,Physiology or Medicine,male,Konrad Bloch,Individual,male,Poland
+1965,Chemistry,male,Robert Burns Woodward,Individual,male,United States of America
+1965,Literature,male,Mikhail Aleksandrovich Sholokhov,Individual,male,Russia
+1965,Peace,,,Organization,,
+1965,Physics,male,Julian Schwinger,Individual,male,United States of America
+1965,Physics,male,Richard P. Feynman,Individual,male,United States of America
+1965,Physics,male,Sin-Itiro Tomonaga,Individual,male,Japan
+1965,Physiology or Medicine,male,Andr?? Lwoff,Individual,male,France
+1965,Physiology or Medicine,male,Fran??ois Jacob,Individual,male,France
+1965,Physiology or Medicine,male,Jacques Monod,Individual,male,France
+1966,Chemistry,male,Robert S. Mulliken,Individual,male,United States of America
+1966,Literature,female,Nelly Sachs,Individual,female,Germany
+1966,Literature,male,Shmuel Yosef Agnon,Individual,male,Ukraine
+1966,Physics,male,Alfred Kastler,Individual,male,France
+1966,Physiology or Medicine,male,Charles Brenton Huggins,Individual,male,Canada
+1966,Physiology or Medicine,male,Peyton Rous,Individual,male,United States of America
+1967,Chemistry,male,George Porter,Individual,male,United Kingdom
+1967,Chemistry,male,Manfred Eigen,Individual,male,Germany
+1967,Chemistry,male,Ronald George Wreyford Norrish,Individual,male,United Kingdom
+1967,Literature,male,Miguel Angel Asturias,Individual,male,Guatemala
+1967,Physics,male,Hans Albrecht Bethe,Individual,male,France
+1967,Physiology or Medicine,male,George Wald,Individual,male,United States of America
+1967,Physiology or Medicine,male,Haldan Keffer Hartline,Individual,male,United States of America
+1967,Physiology or Medicine,male,Ragnar Granit,Individual,male,Finland
+1968,Chemistry,male,Lars Onsager,Individual,male,Norway
+1968,Literature,male,Yasunari Kawabata,Individual,male,Japan
+1968,Peace,male,Ren?? Cassin,Individual,male,France
+1968,Physics,male,Luis Walter Alvarez,Individual,male,United States of America
+1968,Physiology or Medicine,male,Har Gobind Khorana,Individual,male,India
+1968,Physiology or Medicine,male,Marshall W. Nirenberg,Individual,male,United States of America
+1968,Physiology or Medicine,male,Robert W. Holley,Individual,male,United States of America
+1969,Chemistry,male,Derek H. R. Barton,Individual,male,United Kingdom
+1969,Chemistry,male,Odd Hassel,Individual,male,Norway
+1969,Economic Sciences,male,Jan Tinbergen,Individual,male,Netherlands
+1969,Economic Sciences,male,Ragnar Frisch,Individual,male,Norway
+1969,Literature,male,Samuel Beckett,Individual,male,Ireland
+1969,Peace,,,Organization,,
+1969,Physics,male,Murray Gell-Mann,Individual,male,United States of America
+1969,Physiology or Medicine,male,Alfred D. Hershey,Individual,male,United States of America
+1969,Physiology or Medicine,male,Max Delbr?¨ck,Individual,male,Germany
+1969,Physiology or Medicine,male,Salvador E. Luria,Individual,male,Italy
+1970,Chemistry,male,Luis F. Leloir,Individual,male,France
+1970,Economic Sciences,male,Paul A. Samuelson,Individual,male,United States of America
+1970,Literature,male,Aleksandr Isayevich Solzhenitsyn,Individual,male,Russia
+1970,Peace,male,Norman Ernest Borlaug,Individual,male,United States of America
+1970,Physics,male,Hannes Olof Gîsta AlfvÇn,Individual,male,Sweden
+1970,Physics,male,Louis Eugäne FÇlix NÇel,Individual,male,France
+1970,Physiology or Medicine,male,Julius Axelrod,Individual,male,United States of America
+1970,Physiology or Medicine,male,Sir Bernard Katz,Individual,male,Germany
+1970,Physiology or Medicine,male,Ulf von Euler,Individual,male,Sweden
+1971,Chemistry,male,Gerhard Herzberg,Individual,male,Germany
+1971,Economic Sciences,male,Simon Kuznets,Individual,male,Belarus
+1971,Literature,male,Pablo Neruda,Individual,male,Chile
+1971,Peace,male,Willy Brandt,Individual,male,Germany
+1971,Physics,male,Dennis Gabor,Individual,male,Hungary
+1971,Physiology or Medicine,male,"Earl W. Sutherland, Jr.",Individual,male,United States of America
+1972,Chemistry,male,Christian B. Anfinsen,Individual,male,United States of America
+1972,Chemistry,male,Stanford Moore,Individual,male,United States of America
+1972,Chemistry,male,William H. Stein,Individual,male,United States of America
+1972,Economic Sciences,male,John R. Hicks,Individual,male,United Kingdom
+1972,Economic Sciences,male,Kenneth J. Arrow,Individual,male,United States of America
+1972,Literature,male,Heinrich B??ll,Individual,male,Germany
+1972,Physics,male,Leon Neil Cooper,Individual,male,United States of America
+1972,Physics,male,John Robert Schrieffer,Individual,male,United States of America
+1972,Physics,male,John Bardeen,Individual,male,United States of America
+1972,Physiology or Medicine,male,Gerald M. Edelman,Individual,male,United States of America
+1972,Physiology or Medicine,male,Rodney R. Porter,Individual,male,United Kingdom
+1973,Chemistry,male,Ernst Otto Fischer,Individual,male,Germany
+1973,Chemistry,male,Geoffrey Wilkinson,Individual,male,United Kingdom
+1973,Economic Sciences,male,Wassily Wassilyevich Leontief,Individual,male,Russia
+1973,Literature,male,Patrick White,Individual,male,United Kingdom
+1973,Peace,male,Le Duc Tho ,Individual,male,Vietnam
+1973,Peace,male,Henry Alfred Kissinger,Individual,male,Germany
+1973,Physics,male,Brian David Josephson,Individual,male,United Kingdom
+1973,Physics,male,Ivar Giaever,Individual,male,Norway
+1973,Physics,male,Leo Esaki,Individual,male,Japan
+1973,Physiology or Medicine,male,Karl von Frisch,Individual,male,Austria
+1973,Physiology or Medicine,male,Konrad Lorenz,Individual,male,Austria
+1973,Physiology or Medicine,male,Nikolaas Tinbergen,Individual,male,Netherlands
+1974,Chemistry,male,Paul J. Flory,Individual,male,United States of America
+1974,Economic Sciences,male,Friedrich August von Hayek,Individual,male,Austria
+1974,Economic Sciences,male,Gunnar Myrdal,Individual,male,Sweden
+1974,Literature,male,Eyvind Johnson,Individual,male,Sweden
+1974,Literature,male,Harry Martinson,Individual,male,Sweden
+1974,Peace,male,Eisaku Sato,Individual,male,Japan
+1974,Peace,male,Se?≠n MacBride,Individual,male,France
+1974,Physics,male,Antony Hewish,Individual,male,United Kingdom
+1974,Physics,male,Sir Martin Ryle,Individual,male,United Kingdom
+1974,Physiology or Medicine,male,Albert Claude,Individual,male,Belgium
+1974,Physiology or Medicine,male,Christian de Duve,Individual,male,United Kingdom
+1974,Physiology or Medicine,male,George E. Palade,Individual,male,Romania
+1975,Chemistry,male,John Warcup Cornforth,Individual,male,Australia
+1975,Chemistry,male,Vladimir Prelog,Individual,male,Bosnia and Herzegovina
+1975,Economic Sciences,male,Leonid Vitaliyevich Kantorovich,Individual,male,Russia
+1975,Economic Sciences,male,Tjalling C. Koopmans,Individual,male,Netherlands
+1975,Literature,male,Eugenio Montale,Individual,male,Italy
+1975,Peace,male,Andrei Dmitrievich Sakharov,Individual,male,Russia
+1975,Physics,male,Aage Niels Bohr,Individual,male,Denmark
+1975,Physics,male,Ben Roy Mottelson,Individual,male,United States of America
+1975,Physics,male,Leo James Rainwater,Individual,male,United States of America
+1975,Physiology or Medicine,male,David Baltimore,Individual,male,United States of America
+1975,Physiology or Medicine,male,Howard Martin Temin,Individual,male,United States of America
+1975,Physiology or Medicine,male,Renato Dulbecco,Individual,male,Italy
+1976,Chemistry,male,William N. Lipscomb,Individual,male,United States of America
+1976,Economic Sciences,male,Milton Friedman,Individual,male,United States of America
+1976,Literature,male,Saul Bellow,Individual,male,Canada
+1976,Peace,female,Elizabeth Williams,Individual,female,Northern Ireland
+1976,Peace,female,Mairead Corrigan,Individual,female,Northern Ireland
+1976,Physics,male,Burton Richter,Individual,male,United States of America
+1976,Physics,male,Samuel Chao Chung Ting,Individual,male,United States of America
+1976,Physiology or Medicine,male,Baruch S. Blumberg,Individual,male,United States of America
+1976,Physiology or Medicine,male,D. Carleton Gajdusek,Individual,male,United States of America
+1977,Chemistry,male,Ilya Romanovich Prigogine,Individual,male,Russia
+1977,Economic Sciences,male,Bertil Ohlin,Individual,male,Sweden
+1977,Economic Sciences,male,James E. Meade,Individual,male,United Kingdom
+1977,Literature,male,Vicente Aleixandre,Individual,male,Spain
+1977,Peace,,,Organization,,
+1977,Physics,male,John Hasbrouck van Vleck,Individual,male,United States of America
+1977,Physics,male,Philip Warren Anderson,Individual,male,United States of America
+1977,Physics,male,Sir Nevill Francis Mott,Individual,male,United Kingdom
+1977,Physiology or Medicine,male,Andrew V. Schally,Individual,male,Lithuania
+1977,Physiology or Medicine,male,Roger Guillemin,Individual,male,France
+1977,Physiology or Medicine,female,Rosalyn Yalow,Individual,female,United States of America
+1978,Chemistry,male,Peter D. Mitchell,Individual,male,United Kingdom
+1978,Economic Sciences,male,Herbert A. Simon,Individual,male,United States of America
+1978,Literature,male,Isaac Bashevis Singer,Individual,male,Poland
+1978,Peace,male,Mohamed Anwar al-Sadat,Individual,male,Egypt
+1978,Peace,male,Menachem Begin,Individual,male,Belarus
+1978,Physics,male,Arno Allan Penzias,Individual,male,Germany
+1978,Physics,male,Pyotr Leonidovich Kapitsa,Individual,male,Russia
+1978,Physics,male,Robert Woodrow Wilson,Individual,male,United States of America
+1978,Physiology or Medicine,male,Daniel Nathans,Individual,male,United States of America
+1978,Physiology or Medicine,male,Hamilton O. Smith,Individual,male,United States of America
+1978,Physiology or Medicine,male,Werner Arber,Individual,male,Switzerland
+1979,Chemistry,male,Georg Wittig,Individual,male,Germany
+1979,Chemistry,male,Herbert C. Brown,Individual,male,United Kingdom
+1979,Economic Sciences,male,Sir Arthur Lewis,Individual,male,Saint Lucia
+1979,Economic Sciences,male,Theodore W. Schultz,Individual,male,United States of America
+1979,Literature,male,Odysseus Elytis,Individual,male,Greece
+1979,Peace,female,Mother Teresa ,Individual,female,North Macedonia
+1979,Physics,male,Abdus Salam,Individual,male,Pakistan
+1979,Physics,male,Sheldon Lee Glashow,Individual,male,United States of America
+1979,Physics,male,Steven Weinberg,Individual,male,United States of America
+1979,Physiology or Medicine,male,Allan M. Cormack,Individual,male,South Africa
+1979,Physiology or Medicine,male,Godfrey N. Hounsfield,Individual,male,United Kingdom
+1980,Chemistry,male,Paul Berg,Individual,male,United States of America
+1980,Chemistry,male,Walter Gilbert,Individual,male,United States of America
+1980,Chemistry,male,Frederick Sanger,Individual,male,United Kingdom
+1980,Economic Sciences,male,Lawrence R. Klein,Individual,male,United States of America
+1980,Literature,male,Czeslaw Milosz,Individual,male,Lithuania
+1980,Peace,male,Adolfo PÇrez Esquivel,Individual,male,Argentina
+1980,Physics,male,James Watson Cronin,Individual,male,United States of America
+1980,Physics,male,Val Logsdon Fitch,Individual,male,United States of America
+1980,Physiology or Medicine,male,Baruj Benacerraf,Individual,male,Venezuela
+1980,Physiology or Medicine,male,George D. Snell,Individual,male,United States of America
+1980,Physiology or Medicine,male,Jean Dausset,Individual,male,France
+1981,Chemistry,male,Kenichi Fukui,Individual,male,Japan
+1981,Chemistry,male,Roald Hoffmann,Individual,male,Ukraine
+1981,Economic Sciences,male,James Tobin,Individual,male,United States of America
+1981,Literature,male,Elias Canetti,Individual,male,Bulgaria
+1981,Peace,,,Organization,,
+1981,Physics,male,Arthur Leonard Schawlow,Individual,male,United States of America
+1981,Physics,male,Kai M. Siegbahn,Individual,male,Sweden
+1981,Physics,male,Nicolaas Bloembergen,Individual,male,Netherlands
+1981,Physiology or Medicine,male,David H. Hubel,Individual,male,Canada
+1981,Physiology or Medicine,male,Roger W. Sperry,Individual,male,United States of America
+1981,Physiology or Medicine,male,Torsten N. Wiesel,Individual,male,Sweden
+1982,Chemistry,male,Aaron Klug,Individual,male,Lithuania
+1982,Economic Sciences,male,George J. Stigler,Individual,male,United States of America
+1982,Literature,male,Gabriel Garc??a M?≠rquez,Individual,male,Colombia
+1982,Peace,male,Alfonso Garc??a Robles,Individual,male,Mexico
+1982,Peace,female,Alva Myrdal,Individual,female,Sweden
+1982,Physics,male,Kenneth G. Wilson,Individual,male,United States of America
+1982,Physiology or Medicine,male,Bengt I. Samuelsson,Individual,male,Sweden
+1982,Physiology or Medicine,male,John R. Vane,Individual,male,United Kingdom
+1982,Physiology or Medicine,male,KarlˇSuneˇDetlof Bergstrîm,Individual,male,Sweden
+1983,Chemistry,male,Henry Taube,Individual,male,Canada
+1983,Economic Sciences,male,Gerard Debreu,Individual,male,France
+1983,Literature,male,William Golding,Individual,male,United Kingdom
+1983,Peace,male,Lech Walesa,Individual,male,Poland
+1983,Physics,male,Subramanyan Chandrasekhar,Individual,male,Pakistan
+1983,Physics,male,William Alfred Fowler,Individual,male,United States of America
+1983,Physiology or Medicine,female,Barbara McClintock,Individual,female,United States of America
+1984,Chemistry,male,Robert Bruce Merrifield,Individual,male,United States of America
+1984,Economic Sciences,male,Richard Stone,Individual,male,United Kingdom
+1984,Literature,male,Jaroslav Seifert,Individual,male,Czech Republic
+1984,Peace,male,Desmond Mpilo Tutu,Individual,male,South Africa
+1984,Physics,male,Carlo Rubbia,Individual,male,Italy
+1984,Physics,male,Simon van der Meer,Individual,male,Netherlands
+1984,Physiology or Medicine,male,C??sar Milstein,Individual,male,Argentina
+1984,Physiology or Medicine,male,Georges J. F. Kîhler,Individual,male,Germany
+1984,Physiology or Medicine,male,Niels K. Jerne,Individual,male,United Kingdom
+1985,Chemistry,male,Herbert A. Hauptman,Individual,male,United States of America
+1985,Chemistry,male,Jerome Karle,Individual,male,United States of America
+1985,Economic Sciences,male,Franco Modigliani,Individual,male,Italy
+1985,Literature,male,Claude Simon,Individual,male,Madagascar
+1985,Peace,,,Organization,,
+1985,Physics,male,Klaus von Klitzing,Individual,male,Poland
+1985,Physiology or Medicine,male,Joseph L. Goldstein,Individual,male,United States of America
+1985,Physiology or Medicine,male,Michael S. Brown,Individual,male,United States of America
+1986,Chemistry,male,Dudley R. Herschbach,Individual,male,United States of America
+1986,Chemistry,male,John C. Polanyi,Individual,male,Germany
+1986,Chemistry,male,Yuan T. Lee,Individual,male,Taiwan
+1986,Economic Sciences,male,James M. Buchanan Jr.,Individual,male,United States of America
+1986,Literature,male,Wole Soyinka,Individual,male,Nigeria
+1986,Peace,male,Elie Wiesel,Individual,male,Romania
+1986,Physics,male,Ernst Ruska,Individual,male,Germany
+1986,Physics,male,Gerd Binnig,Individual,male,Germany
+1986,Physics,male,Heinrich Rohrer,Individual,male,Switzerland
+1986,Physiology or Medicine,female,Rita Levi-Montalcini,Individual,female,Italy
+1986,Physiology or Medicine,male,Stanley Cohen,Individual,male,United States of America
+1987,Chemistry,male,Charles J. Pedersen,Individual,male,South Korea
+1987,Chemistry,male,Donald J. Cram,Individual,male,United States of America
+1987,Chemistry,male,Jean-Marie Lehn,Individual,male,France
+1987,Economic Sciences,male,Robert M. Solow,Individual,male,United States of America
+1987,Literature,male,Joseph Brodsky,Individual,male,Russia
+1987,Peace,male,Oscar Arias S?≠nchez,Individual,male,Costa Rica
+1987,Physics,male,J. Georg Bednorz,Individual,male,Germany
+1987,Physics,male,KarlˇAlexander MÅller,Individual,male,Switzerland
+1987,Physiology or Medicine,male,Susumu Tonegawa,Individual,male,Japan
+1988,Chemistry,male,Hartmut Michel,Individual,male,Germany
+1988,Chemistry,male,Johann Deisenhofer,Individual,male,Germany
+1988,Chemistry,male,Robert Huber,Individual,male,Germany
+1988,Economic Sciences,male,Maurice Allais,Individual,male,France
+1988,Literature,male,Naguib Mahfouz,Individual,male,Egypt
+1988,Peace,,,Organization,,
+1988,Physics,male,Jack Steinberger,Individual,male,Germany
+1988,Physics,male,Leon M. Lederman,Individual,male,United States of America
+1988,Physics,male,Melvin Schwartz,Individual,male,United States of America
+1988,Physiology or Medicine,male,George H. Hitchings,Individual,male,United States of America
+1988,Physiology or Medicine,female,Gertrude B. Elion,Individual,female,United States of America
+1988,Physiology or Medicine,male,Sir James W. Black,Individual,male,Scotland
+1989,Chemistry,male,Sidney Altman,Individual,male,Canada
+1989,Chemistry,male,Thomas R. Cech,Individual,male,United States of America
+1989,Economic Sciences,male,Trygve Haavelmo,Individual,male,Norway
+1989,Literature,male,Camilo JosÇ Cela,Individual,male,Spain
+1989,Peace,male,The 14th Dalai Lama (Tenzin Gyatso) ,Individual,male,China
+1989,Physics,male,Hans G. Dehmelt,Individual,male,Germany
+1989,Physics,male,Norman F. Ramsey,Individual,male,United States of America
+1989,Physics,male,Wolfgang Paul,Individual,male,Germany
+1989,Physiology or Medicine,male,Harold E. Varmus,Individual,male,United States of America
+1989,Physiology or Medicine,male,J. Michael Bishop,Individual,male,United States of America
+1990,Chemistry,male,Elias James Corey,Individual,male,United States of America
+1990,Economic Sciences,male,Harry M. Markowitz,Individual,male,United States of America
+1990,Economic Sciences,male,Merton H. Miller,Individual,male,United States of America
+1990,Economic Sciences,male,William F. Sharpe,Individual,male,United States of America
+1990,Literature,male,Octavio Paz,Individual,male,Mexico
+1990,Peace,male,Mikhail Sergeyevich Gorbachev,Individual,male,Russia
+1990,Physics,male,Henry W. Kendall,Individual,male,United States of America
+1990,Physics,male,Jerome I. Friedman,Individual,male,United States of America
+1990,Physics,male,Richard E. Taylor,Individual,male,Canada
+1990,Physiology or Medicine,male,E. Donnall Thomas,Individual,male,United States of America
+1990,Physiology or Medicine,male,Joseph E. Murray,Individual,male,United States of America
+1991,Chemistry,male,Richard R. Ernst,Individual,male,Switzerland
+1991,Economic Sciences,male,Ronald H. Coase,Individual,male,United Kingdom
+1991,Literature,female,Nadine Gordimer,Individual,female,South Africa
+1991,Peace,female,Aung San Suu Kyi ,Individual,female,Myanmar
+1991,Physics,male,Pierre-Gilles de Gennes,Individual,male,France
+1991,Physiology or Medicine,male,Bert Sakmann,Individual,male,Germany
+1991,Physiology or Medicine,male,Erwin Neher,Individual,male,Germany
+1992,Chemistry,male,Rudolph A. Marcus,Individual,male,Canada
+1992,Economic Sciences,male,Gary S. Becker,Individual,male,United States of America
+1992,Literature,male,Derek Walcott,Individual,male,Saint Lucia
+1992,Peace,female,Rigoberta Mench£ Tum,Individual,female,Guatemala
+1992,Physics,male,Georges Charpak,Individual,male,Poland
+1992,Physiology or Medicine,male,Edmond H. Fischer,Individual,male,China
+1992,Physiology or Medicine,male,Edwin G. Krebs,Individual,male,United States of America
+1993,Chemistry,male,Kary B. Mullis,Individual,male,United States of America
+1993,Chemistry,male,Michael Smith,Individual,male,United Kingdom
+1993,Economic Sciences,male,Douglass C. North,Individual,male,United States of America
+1993,Economic Sciences,male,Robert W. Fogel,Individual,male,United States of America
+1993,Literature,female,Toni Morrison,Individual,female,United States of America
+1993,Peace,male,Frederik Willem de Klerk,Individual,male,South Africa
+1993,Peace,male,Nelson Rolihlahla Mandela,Individual,male,South Africa
+1993,Physics,male,Joseph H. Taylor Jr.,Individual,male,United States of America
+1993,Physics,male,Russell A. Hulse,Individual,male,United States of America
+1993,Physiology or Medicine,male,Phillip A. Sharp,Individual,male,United States of America
+1993,Physiology or Medicine,male,Richard J. Roberts,Individual,male,United Kingdom
+1994,Chemistry,male,George A. Olah,Individual,male,Hungary
+1994,Economic Sciences,male,John C. Harsanyi,Individual,male,Hungary
+1994,Economic Sciences,male,John F. Nash Jr.,Individual,male,United States of America
+1994,Economic Sciences,male,Reinhard Selten,Individual,male,Poland
+1994,Literature,male,Kenzaburo Oe,Individual,male,Japan
+1994,Peace,male,Shimon Peres,Individual,male,Belarus
+1994,Peace,male,Yasser Arafat,Individual,male,Egypt
+1994,Peace,male,Yitzhak Rabin,Individual,male,Israel
+1994,Physics,male,Bertram N. Brockhouse,Individual,male,Canada
+1994,Physics,male,Clifford G. Shull,Individual,male,United States of America
+1994,Physiology or Medicine,male,Alfred G. Gilman,Individual,male,United States of America
+1994,Physiology or Medicine,male,Martin Rodbell,Individual,male,United States of America
+1995,Chemistry,male,F. Sherwood Rowland,Individual,male,United States of America
+1995,Chemistry,male,Mario J. Molina,Individual,male,Mexico
+1995,Chemistry,male,Paul J. Crutzen,Individual,male,Netherlands
+1995,Economic Sciences,male,Robert E. Lucas Jr.,Individual,male,United States of America
+1995,Literature,male,Seamus Heaney,Individual,male,Northern Ireland
+1995,Peace,male,Joseph Rotblat,Individual,male,Poland
+1995,Peace,,,Organization,,
+1995,Physics,male,Frederick Reines,Individual,male,United States of America
+1995,Physics,male,Martin L. Perl,Individual,male,United States of America
+1995,Physiology or Medicine,female,Christiane N?¨sslein-Volhard,Individual,female,Germany
+1995,Physiology or Medicine,male,Edward B. Lewis,Individual,male,United States of America
+1995,Physiology or Medicine,male,Eric F. Wieschaus,Individual,male,United States of America
+1996,Chemistry,male,Richard E. Smalley,Individual,male,United States of America
+1996,Chemistry,male,Robert F. Curl Jr.,Individual,male,United States of America
+1996,Chemistry,male,Sir Harold W. Kroto,Individual,male,United Kingdom
+1996,Economic Sciences,male,James A. Mirrlees,Individual,male,Scotland
+1996,Economic Sciences,male,William Vickrey,Individual,male,Canada
+1996,Literature,female,Wislawa Szymborska,Individual,female,Poland
+1996,Peace,male,Carlos Filipe Ximenes Belo,Individual,male,East Timor
+1996,Peace,male,JosÇˇManuelˇRamos-Horta,Individual,male,East Timor
+1996,Physics,male,David M. Lee,Individual,male,United States of America
+1996,Physics,male,Douglas D. Osheroff,Individual,male,United States of America
+1996,Physics,male,Robert C. Richardson,Individual,male,United States of America
+1996,Physiology or Medicine,male,Peter C. Doherty,Individual,male,Australia
+1996,Physiology or Medicine,male,Rolf M. Zinkernagel,Individual,male,Switzerland
+1997,Chemistry,male,Jens C. Skou,Individual,male,Denmark
+1997,Chemistry,male,John E. Walker,Individual,male,United Kingdom
+1997,Chemistry,male,Paul D. Boyer,Individual,male,United States of America
+1997,Economic Sciences,male,Myron S. Scholes,Individual,male,Canada
+1997,Economic Sciences,male,Robert C. Merton,Individual,male,United States of America
+1997,Literature,male,Dario Fo,Individual,male,Italy
+1997,Peace,,,Organization,,
+1997,Peace,female,Jody Williams,Individual,female,United States of America
+1997,Physics,male,Claude Cohen-Tannoudji,Individual,male,Algeria
+1997,Physics,male,Steven Chu,Individual,male,United States of America
+1997,Physics,male,William D. Phillips,Individual,male,United States of America
+1997,Physiology or Medicine,male,Stanley B. Prusiner,Individual,male,United States of America
+1998,Chemistry,male,John A. Pople,Individual,male,United Kingdom
+1998,Chemistry,male,Walter Kohn,Individual,male,Austria
+1998,Economic Sciences,male,Amartya Sen,Individual,male,India
+1998,Literature,male,JosÇ Saramago,Individual,male,Portugal
+1998,Peace,male,David Trimble,Individual,male,Northern Ireland
+1998,Peace,male,John Hume,Individual,male,Northern Ireland
+1998,Physics,male,Daniel C. Tsui,Individual,male,China
+1998,Physics,male,Horst Ludwig Stîrmer,Individual,male,Germany
+1998,Physics,male,Robert B. Laughlin,Individual,male,United States of America
+1998,Physiology or Medicine,male,Ferid Murad,Individual,male,United States of America
+1998,Physiology or Medicine,male,Louis J. Ignarro,Individual,male,United States of America
+1998,Physiology or Medicine,male,Robert F. Furchgott,Individual,male,United States of America
+1999,Chemistry,male,Ahmed H. Zewail,Individual,male,Egypt
+1999,Economic Sciences,male,Robert A. Mundell,Individual,male,Canada
+1999,Literature,male,G?¨nter Grass,Individual,male,Poland
+1999,Peace,,,Organization,,
+1999,Physics,male,Gerardus 't Hooft,Individual,male,Netherlands
+1999,Physics,male,Martinus J.G. Veltman,Individual,male,Netherlands
+1999,Physiology or Medicine,male,GÅnter Blobel,Individual,male,Poland
+2000,Chemistry,male,Alan J. Heeger,Individual,male,United States of America
+2000,Chemistry,male,Alan G. MacDiarmid,Individual,male,New Zealand
+2000,Chemistry,male,Hideki Shirakawa,Individual,male,Japan
+2000,Economic Sciences,male,Daniel L. McFadden,Individual,male,United States of America
+2000,Economic Sciences,male,James J. Heckman,Individual,male,United States of America
+2000,Literature,male,Gao Xingjian,Individual,male,China
+2000,Peace,male,Kim Dae-jung,Individual,male,South Korea
+2000,Physics,male,Herbert Kroemer,Individual,male,Germany
+2000,Physics,male,Jack S. Kilby,Individual,male,United States of America
+2000,Physics,male,Zhores I. Alferov,Individual,male,Belarus
+2000,Physiology or Medicine,male,Arvid Carlsson,Individual,male,Sweden
+2000,Physiology or Medicine,male,Eric R. Kandel,Individual,male,Austria
+2000,Physiology or Medicine,male,Paul Greengard,Individual,male,United States of America
+2001,Chemistry,male,K. Barry Sharpless,Individual,male,United States of America
+2001,Chemistry,male,Ryoji Noyori,Individual,male,Japan
+2001,Chemistry,male,William S. Knowles,Individual,male,United States of America
+2001,Economic Sciences,male,A. Michael Spence,Individual,male,United States of America
+2001,Economic Sciences,male,George A. Akerlof,Individual,male,United States of America
+2001,Economic Sciences,male,Joseph E. Stiglitz,Individual,male,United States of America
+2001,Literature,male,Sir Vidiadhar Surajprasad Naipaul,Individual,male,Trinidad and Tobago
+2001,Peace,male,Kofi Atta Annan,Individual,male,Ghana
+2001,Peace,,,Organization,,
+2001,Physics,male,Carl E. Wieman,Individual,male,United States of America
+2001,Physics,male,Eric A. Cornell,Individual,male,United States of America
+2001,Physics,male,Wolfgang Ketterle,Individual,male,Germany
+2001,Physiology or Medicine,male,Leland H. Hartwell,Individual,male,United States of America
+2001,Physiology or Medicine,male,Sir Paul M. Nurse,Individual,male,United Kingdom
+2001,Physiology or Medicine,male,Tim Hunt,Individual,male,United Kingdom
+2002,Chemistry,male,John B. Fenn,Individual,male,United States of America
+2002,Chemistry,male,Koichi Tanaka,Individual,male,Japan
+2002,Chemistry,male,Kurt W?¨thrich,Individual,male,Switzerland
+2002,Economic Sciences,male,Daniel Kahneman,Individual,male,Israel
+2002,Economic Sciences,male,Vernon L. Smith,Individual,male,United States of America
+2002,Literature,male,Imre KertÇsz,Individual,male,Hungary
+2002,Peace,male,James Earl Carter,Individual,male,United States of America
+2002,Physics,male,Masatoshi Koshiba,Individual,male,Japan
+2002,Physics,male,Raymond Davis Jr.,Individual,male,United States of America
+2002,Physics,male,Riccardo Giacconi,Individual,male,Italy
+2002,Physiology or Medicine,male,H. Robert Horvitz,Individual,male,United States of America
+2002,Physiology or Medicine,male,John E. Sulston,Individual,male,United Kingdom
+2002,Physiology or Medicine,male,Sydney Brenner,Individual,male,South Africa
+2003,Chemistry,male,Peter Agre,Individual,male,United States of America
+2003,Chemistry,male,Roderick MacKinnon,Individual,male,United States of America
+2003,Economic Sciences,male,Clive W.J. Granger,Individual,male,United Kingdom
+2003,Economic Sciences,male,Robert F. Engle III,Individual,male,United States of America
+2003,Literature,male,John M. Coetzee,Individual,male,South Africa
+2003,Peace,female,Shirin Ebadi,Individual,female,Iran
+2003,Physics,male,Alexei Alexeyevich Abrikosov,Individual,male,Russia
+2003,Physics,male,Anthony J. Leggett,Individual,male,United Kingdom
+2003,Physics,male,Vitaly Lazarevich Ginzburg,Individual,male,Russia
+2003,Physiology or Medicine,male,Paul C. Lauterbur,Individual,male,United States of America
+2003,Physiology or Medicine,male,Sir Peter Mansfield,Individual,male,United Kingdom
+2004,Chemistry,male,Aaron Ciechanover,Individual,male,Israel
+2004,Chemistry,male,Avram Hershko,Individual,male,Hungary
+2004,Chemistry,male,Irwin Rose,Individual,male,United States of America
+2004,Economic Sciences,male,Edward C. Prescott,Individual,male,United States of America
+2004,Economic Sciences,male,Finn E. Kydland,Individual,male,Norway
+2004,Literature,female,Elfriede Jelinek,Individual,female,Austria
+2004,Peace,female,Wangari Muta Maathai,Individual,female,Kenya
+2004,Physics,male,David J. Gross,Individual,male,United States of America
+2004,Physics,male,Frank Wilczek,Individual,male,United States of America
+2004,Physics,male,H. David Politzer,Individual,male,United States of America
+2004,Physiology or Medicine,female,Linda B. Buck,Individual,female,United States of America
+2004,Physiology or Medicine,male,Richard Axel,Individual,male,United States of America
+2005,Chemistry,male,Richard R. Schrock,Individual,male,United States of America
+2005,Chemistry,male,Robert H. Grubbs,Individual,male,United States of America
+2005,Chemistry,male,Yves Chauvin,Individual,male,Belgium
+2005,Economic Sciences,male,Robert J. Aumann,Individual,male,Germany
+2005,Economic Sciences,male,Thomas C. Schelling,Individual,male,United States of America
+2005,Literature,male,Harold Pinter,Individual,male,United Kingdom
+2005,Peace,,,Organization,,
+2005,Peace,male,Mohamed ElBaradei,Individual,male,Egypt
+2005,Physics,male,John L. Hall,Individual,male,United States of America
+2005,Physics,male,Roy J. Glauber,Individual,male,United States of America
+2005,Physics,male,Theodor W. HÑnsch,Individual,male,Germany
+2005,Physiology or Medicine,male,Barry J. Marshall,Individual,male,Australia
+2005,Physiology or Medicine,male,J. Robin Warren,Individual,male,Australia
+2006,Chemistry,male,Roger D. Kornberg,Individual,male,United States of America
+2006,Economic Sciences,male,Edmund S. Phelps,Individual,male,United States of America
+2006,Literature,male,Orhan Pamuk,Individual,male,Turkey
+2006,Peace,,,Organization,,
+2006,Peace,male,Muhammad Yunus,Individual,male,Bangladesh
+2006,Physics,male,George F. Smoot,Individual,male,United States of America
+2006,Physics,male,John C. Mather,Individual,male,United States of America
+2006,Physiology or Medicine,male,Andrew Z. Fire,Individual,male,United States of America
+2006,Physiology or Medicine,male,Craig C. Mello,Individual,male,United States of America
+2007,Chemistry,male,Gerhard Ertl,Individual,male,Germany
+2007,Economic Sciences,male,Eric S. Maskin,Individual,male,United States of America
+2007,Economic Sciences,male,Leonid Hurwicz,Individual,male,Russia
+2007,Economic Sciences,male,Roger B. Myerson,Individual,male,United States of America
+2007,Literature,female,Doris Lessing,Individual,female,Iran
+2007,Peace,male,Albert Arnold (Al) Gore Jr.,Individual,male,United States of America
+2007,Peace,,,Organization,,
+2007,Physics,male,Albert Fert,Individual,male,France
+2007,Physics,male,PeterˇAndreasˇGrÅnberg,Individual,male,Czech Republic
+2007,Physiology or Medicine,male,Mario R. Capecchi,Individual,male,Italy
+2007,Physiology or Medicine,male,Oliver Smithies,Individual,male,United Kingdom
+2007,Physiology or Medicine,male,Sir Martin J. Evans,Individual,male,United Kingdom
+2008,Chemistry,male,Martin Chalfie,Individual,male,United States of America
+2008,Chemistry,male,Osamu Shimomura,Individual,male,Japan
+2008,Chemistry,male,Roger Y. Tsien,Individual,male,United States of America
+2008,Economic Sciences,male,Paul Krugman,Individual,male,United States of America
+2008,Literature,male,Jean-Marie Gustave LeˇClÇzio,Individual,male,France
+2008,Peace,male,Martti Ahtisaari,Individual,male,Finland
+2008,Physics,male,Makoto Kobayashi,Individual,male,Japan
+2008,Physics,male,Toshihide Maskawa,Individual,male,Japan
+2008,Physics,male,Yoichiro Nambu,Individual,male,Japan
+2008,Physiology or Medicine,female,FranáoiseˇBarrÇ-Sinoussi,Individual,female,France
+2008,Physiology or Medicine,male,Harald zur Hausen,Individual,male,Germany
+2008,Physiology or Medicine,male,Luc Montagnier,Individual,male,France
+2009,Chemistry,female,Ada E. Yonath,Individual,female,Israel
+2009,Chemistry,male,Thomas A. Steitz,Individual,male,United States of America
+2009,Chemistry,male,Venkatraman Ramakrishnan,Individual,male,India
+2009,Economic Sciences,female,Elinor Ostrom,Individual,female,United States of America
+2009,Economic Sciences,male,Oliver E. Williamson,Individual,male,United States of America
+2009,Literature,female,Herta MÅller,Individual,female,Romania
+2009,Peace,male,Barack Hussein Obama,Individual,male,United States of America
+2009,Physics,male,Charles Kuen Kao,Individual,male,China
+2009,Physics,male,George E. Smith,Individual,male,United States of America
+2009,Physics,male,Willard S. Boyle,Individual,male,Canada
+2009,Physiology or Medicine,female,Carol W. Greider,Individual,female,United States of America
+2009,Physiology or Medicine,female,Elizabeth H. Blackburn,Individual,female,Australia
+2009,Physiology or Medicine,male,Jack W. Szostak,Individual,male,United Kingdom
+2010,Chemistry,male,Akira Suzuki,Individual,male,Japan
+2010,Chemistry,male,Ei-ichi Negishi,Individual,male,China
+2010,Chemistry,male,Richard F. Heck,Individual,male,United States of America
+2010,Economic Sciences,male,Christopher A. Pissarides,Individual,male,Cyprus
+2010,Economic Sciences,male,Dale T. Mortensen,Individual,male,United States of America
+2010,Economic Sciences,male,Peter A. Diamond,Individual,male,United States of America
+2010,Literature,male,Mario Vargas Llosa,Individual,male,Peru
+2010,Peace,male,Liu Xiaobo,Individual,male,China
+2010,Physics,male,Andre Geim,Individual,male,Russia
+2010,Physics,male,Konstantin Novoselov,Individual,male,Russia
+2010,Physiology or Medicine,male,Robert G. Edwards,Individual,male,United Kingdom
+2011,Chemistry,male,Dan Shechtman,Individual,male,Israel
+2011,Economic Sciences,male,Christopher A. Sims,Individual,male,United States of America
+2011,Economic Sciences,male,Thomas J. Sargent,Individual,male,United States of America
+2011,Literature,male,TomasˇTranstrîmer,Individual,male,Sweden
+2011,Peace,female,Ellen Johnson Sirleaf,Individual,female,Liberia
+2011,Peace,female,Leymah Gbowee,Individual,female,Liberia
+2011,Peace,female,Tawakkol Karman,Individual,female,Yemen
+2011,Physics,male,Adam G. Riess,Individual,male,United States of America
+2011,Physics,male,Brian P. Schmidt,Individual,male,United States of America
+2011,Physics,male,Saul Perlmutter,Individual,male,United States of America
+2011,Physiology or Medicine,male,Bruce A. Beutler,Individual,male,United States of America
+2011,Physiology or Medicine,male,Jules A. Hoffmann,Individual,male,Luxembourg
+2011,Physiology or Medicine,male,Ralph M. Steinman,Individual,male,Canada
+2012,Chemistry,male,Brian K. Kobilka,Individual,male,United States of America
+2012,Chemistry,male,Robert J. Lefkowitz,Individual,male,United States of America
+2012,Economic Sciences,male,Alvin E. Roth,Individual,male,United States of America
+2012,Economic Sciences,male,Lloyd S. Shapley,Individual,male,United States of America
+2012,Literature,male,Mo Yan,Individual,male,China
+2012,Peace,,,Organization,,
+2012,Physics,male,David J. Wineland,Individual,male,United States of America
+2012,Physics,male,Serge Haroche,Individual,male,Morocco
+2012,Physiology or Medicine,male,Shinya Yamanaka,Individual,male,Japan
+2012,Physiology or Medicine,male,Sir John B. Gurdon,Individual,male,United Kingdom
+2013,Chemistry,male,Arieh Warshel,Individual,male,Israel
+2013,Chemistry,male,Martin Karplus,Individual,male,Austria
+2013,Chemistry,male,Michael Levitt,Individual,male,South Africa
+2013,Economic Sciences,male,Eugene F. Fama,Individual,male,United States of America
+2013,Economic Sciences,male,Lars Peter Hansen,Individual,male,United States of America
+2013,Economic Sciences,male,Robert J. Shiller,Individual,male,United States of America
+2013,Literature,female,Alice Munro,Individual,female,Canada
+2013,Peace,,,Organization,,
+2013,Physics,male,Fran??ois Englert,Individual,male,Belgium
+2013,Physics,male,Peter W. Higgs,Individual,male,United Kingdom
+2013,Physiology or Medicine,male,James E. Rothman,Individual,male,United States of America
+2013,Physiology or Medicine,male,Randy W. Schekman,Individual,male,United States of America
+2013,Physiology or Medicine,male,Thomas C. S?¨dhof,Individual,male,Germany
+2014,Chemistry,male,Eric Betzig,Individual,male,United States of America
+2014,Chemistry,male,Stefan W. Hell,Individual,male,Romania
+2014,Chemistry,male,William E. Moerner,Individual,male,United States of America
+2014,Economic Sciences,male,Jean Tirole,Individual,male,France
+2014,Literature,male,Patrick Modiano,Individual,male,France
+2014,Peace,male,Kailash Satyarthi,Individual,male,India
+2014,Peace,female,Malala YoUnited States of Americafzai,Individual,female,Pakistan
+2014,Physics,male,Hiroshi Amano,Individual,male,Japan
+2014,Physics,male,Isamu Akasaki,Individual,male,Japan
+2014,Physics,male,Shuji Nakamura,Individual,male,Japan
+2014,Physiology or Medicine,male,Edvard I. Moser,Individual,male,Norway
+2014,Physiology or Medicine,male,John O'Keefe,Individual,male,United States of America
+2014,Physiology or Medicine,female,May-Britt Moser,Individual,female,Norway
+2015,Chemistry,male,Aziz Sancar,Individual,male,Turkey
+2015,Chemistry,male,Paul Modrich,Individual,male,United States of America
+2015,Chemistry,male,Tomas Lindahl,Individual,male,Sweden
+2015,Economic Sciences,male,Angus Deaton,Individual,male,Scotland
+2015,Literature,female,Svetlana Alexievich,Individual,female,Ukraine
+2015,Peace,,,Organization,,
+2015,Physics,male,Arthur B. McDonald,Individual,male,Canada
+2015,Physics,male,Takaaki Kajita,Individual,male,Japan
+2015,Physiology or Medicine,male,Satoshi &#332;mura,Individual,male,Japan
+2015,Physiology or Medicine,female,Tu Youyou,Individual,female,China
+2015,Physiology or Medicine,male,William C. Campbell,Individual,male,Ireland
+2016,Chemistry,male,Bernard L. Feringa,Individual,male,Netherlands
+2016,Chemistry,male,Jean-Pierre Sauvage,Individual,male,France
+2016,Chemistry,male,Sir J. Fraser Stoddart,Individual,male,United Kingdom
+2016,Economic Sciences,male,BengtˇRobert Holmstrîm,Individual,male,Finland
+2016,Economic Sciences,male,Oliver Hart,Individual,male,United Kingdom
+2016,Literature,male,Bob Dylan,Individual,male,United States of America
+2016,Peace,male,Juan Manuel Santos,Individual,male,Colombia
+2016,Physics,male,David J. Thouless,Individual,male,United Kingdom
+2016,Physics,male,F. Duncan M. Haldane,Individual,male,United Kingdom
+2016,Physics,male,J. Michael Kosterlitz,Individual,male,United Kingdom
+2016,Physiology or Medicine,male,Yoshinori Ohsumi,Individual,male,Japan
+2017,Chemistry,male,Jacques Dubochet,Individual,male,Switzerland
+2017,Chemistry,male,Joachim Frank,Individual,male,Germany
+2017,Chemistry,male,Richard Henderson,Individual,male,Scotland
+2017,Economic Sciences,male,Richard H. Thaler,Individual,male,United States of America
+2017,Literature,male,Kazuo Ishiguro,Individual,male,Japan
+2017,Peace,,,Organization,,
+2017,Physics,male,Barry C. Barish,Individual,male,United States of America
+2017,Physics,male,Kip S. Thorne,Individual,male,United States of America
+2017,Physics,male,Rainer Weiss,Individual,male,Germany
+2017,Physiology or Medicine,male,Jeffrey C. Hall,Individual,male,United States of America
+2017,Physiology or Medicine,male,Michael Rosbash,Individual,male,United States of America
+2017,Physiology or Medicine,male,Michael W. Young,Individual,male,United States of America
+2018,Chemistry,female,Frances H. Arnold,Individual,female,United States of America
+2018,Chemistry,male,George P. Smith,Individual,male,United States of America
+2018,Chemistry,male,Sir Gregory P. Winter,Individual,male,United Kingdom
+2018,Economic Sciences,male,Paul M. Romer,Individual,male,United States of America
+2018,Economic Sciences,male,William D. Nordhaus,Individual,male,United States of America
+2018,Literature,female,Olga Tokarczuk,Individual,female,Poland
+2018,Peace,male,Denis Mukwege,Individual,male,Democratic Republic of the Congo
+2018,Peace,female,Nadia Murad Basee Taha,Individual,female,Iraq
+2018,Physics,male,Arthur Ashkin,Individual,male,United States of America
+2018,Physics,female,Donna Strickland,Individual,female,Canada
+2018,Physics,male,G??rard Mourou,Individual,male,France
+2018,Physiology or Medicine,male,James P. Allison,Individual,male,United States of America
+2018,Physiology or Medicine,male,Tasuku Honjo,Individual,male,Japan
+2019,Chemistry,male,Akira Yoshino,Individual,male,Japan
+2019,Chemistry,male,John B. Goodenough,Individual,male,Germany
+2019,Chemistry,male,M. Stanley Whittingham,Individual,male,United Kingdom
+2019,Economic Sciences,male,Abhijit Banerjee,Individual,male,India
+2019,Economic Sciences,female,Esther Duflo,Individual,female,France
+2019,Economic Sciences,male,Michael Kremer,Individual,male,United States of America
+2019,Literature,male,Peter Handke,Individual,male,Austria
+2019,Peace,male,Abiy Ahmed Ali,Individual,male,Ethiopia
+2019,Physics,male,Didier Queloz,Individual,male,Switzerland
+2019,Physics,male,James Peebles,Individual,male,Canada
+2019,Physics,male,Michel Mayor,Individual,male,Switzerland
+2019,Physiology or Medicine,male,Gregg L. Semenza,Individual,male,United States of America
+2019,Physiology or Medicine,male,Sir Peter J. Ratcliffe,Individual,male,United Kingdom
+2019,Physiology or Medicine,male,William G. Kaelin Jr,Individual,male,United States of America
+2020,Chemistry,female,Emmanuelle Charpentier,Individual,female,France
+2020,Chemistry,female,Jennifer A. Doudna,Individual,female,United States of America
+2020,Economic Sciences,male,Paul R. Milgromˇ,Individual,male,United States of America
+2020,Economic Sciences,male,Robert B. Wilson,Individual,male,United States of America
+2020,Literature,female,Louise GlÅck,Individual,female,United States of America
+2020,Peace,,,Organization,,
+2020,Physics,male,Roger Penrose,Individual,male,United Kingdom
+2020,Physics,male,Reinhard Genzel,Individual,male,Germany
+2020,Physics,female,Andrea Ghez,Individual,female,United States of America
+2020,Physiology or Medicine,male,Harvey J. Alter,Individual,male,United States of America
+2020,Physiology or Medicine,male,Michael Houghton,Individual,male,United Kingdom
+2020,Physiology or Medicine,male,Charles M. Rice,Individual,male,United States of America
+2021,Chemistry,male,Benjamin List,Individual,male,Germany
+2021,Chemistry,male,David MacMillan,Individual,male,United Kingdom
+2021,Economic Sciences,male,David Card,Individual,male,Canada
+2021,Economic Sciences,male,Joshua D. Angrist,Individual,male,United States of America
+2021,Economic Sciences,male,Guido W. Imbens,Individual,male,Netherlands
+2021,Literature,male,Abdulrazak Gurnah,Individual,male,Tanzania
+2021,Peace,female,Maria Ressa,Individual,female,Philippines
+2021,Peace,male,Dmitry Muratov,Individual,male,Russia
+2021,Physics,male,Syukuro Manabe,Individual,male,Japan
+2021,Physics,male,Klaus Hasselmann,Individual,male,Germany
+2021,Physics,male,Giorgio Parisi,Individual,male,Italy
+2021,Physiology or Medicine,male,David Julius,Individual,male,United States of America
+2021,Physiology or Medicine,male,Ardem Patapoutian,Individual,male,Lebanon
