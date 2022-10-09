@@ -7,11 +7,11 @@ h1 {
 }
 
 body {
-    background-color: lightgray;
+    background-color: #FFD700;
 }
 
 .page {
-  width: 70%;
+  width: 60%;
   background-color: white;
   margin: auto;
   padding: 50px;
