@@ -6,12 +6,16 @@ h1 {
   font-weight: 900;
 }
 
+body {
+    background-color: #FFD700;
+}
+
 .page {
-  width: 100%;
+  width: 70%;
   background-color: white;
   margin: auto;
-  padding: 50px;
-  padding-top: 35px;
+  padding: auto;
+  padding-top: auto;
   text-align: center;
 }
 
