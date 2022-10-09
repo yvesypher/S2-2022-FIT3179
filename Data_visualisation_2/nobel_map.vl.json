@@ -61,7 +61,7 @@
         "orient": "none",
         "direction": "horizontal",
         "legendX": 200,
-        "legendY": 380,
+        "legendY": 350,
         "title": "Number of Nobel Laureates",
         "titleAnchor": "centre"}
         },
