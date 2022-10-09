@@ -22,8 +22,7 @@ body {
 .vis-container {
   display: block;
   margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+  margin-right: auto
 }
 
 .description h2,
@@ -44,13 +43,13 @@ h1 {
 }
 
 .pure-u-1-2{
-  width: auto;
-  margin: 0 auto
+  margin-left: auto;
+  margin-right: auto
 }
 
 .pure-u-2-3{
-  width: auto;
-  margin: 0 auto
+  margin-left: auto;
+  margin-right: auto
 }
 
 .small-font {
