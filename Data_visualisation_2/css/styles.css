@@ -7,7 +7,7 @@ h1 {
 }
 
 body {
-    ackground-image: url('https://user-images.githubusercontent.com/91320868/194749423-c735358f-1c31-4bbe-953d-04e5ee581fc5.jpg');
+    background-image: url('https://user-images.githubusercontent.com/91320868/194749423-c735358f-1c31-4bbe-953d-04e5ee581fc5.jpg');
 }
 
 .page {
@@ -20,6 +20,9 @@ body {
 }
 
 .vis-container {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   width: 50%;
 }
 
