@@ -11,11 +11,11 @@ body {
 }
 
 .page {
-  width: 60%;
+  width: 70%;
   background-color: white;
   margin: auto;
-  padding: 50px;
-  padding-top: 35px;
+  padding: auto;
+  padding-top: auto;
   text-align: center;
 }
 
