@@ -9,7 +9,7 @@
   },
   "projection": {"type": "equalEarth"},
   "layer": [
-    {
+    { 
       "transform": [
         {
           "calculate": "'There are no Nobel laureates in ' + datum.properties.NAME",
@@ -55,8 +55,15 @@
           "scale": {
             "type": "threshold",
             "domain": [10, 30, 50, 100],
-            "range": ["#fcbba1", "#fc9272", "#fb6a4a", "#de2d26", "#a50f15"]
-          }
+            "range": ["#fee391", "#fec44f", "#fe9929", "#ec7014", "#cc4c02"]
+          },
+          "legend":{
+        "orient": "none",
+        "direction": "horizontal",
+        "legendX": 200,
+        "legendY": 380,
+        "title": "Number of Nobel Laureates",
+        "titleAnchor": "centre"}
         },
         "tooltip": [
           {"field": "properties.ADMIN", "type": "nominal", "title": "Country"},
@@ -65,5 +72,5 @@
       }
     }
   ],
-  "config": {"legend": {"orient": "bottom", "layout": {"bottom": {"anchor": "middle"}}}}
+  "config": {}
 }
