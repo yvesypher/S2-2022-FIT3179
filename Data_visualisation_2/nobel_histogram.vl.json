@@ -1,0 +1,48 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Nobel Prize by Age",
+  "width": 300,
+  "height": 300,
+  "data": {
+    "url": "https://raw.githubusercontent.com/yvesypher/S2-2022-FIT3179/main/Data_visualisation_2/data/nobel_boxplot_data.csv"
+  },
+  "params": [
+    {
+      "name": "Category_selection",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "Chemistry",
+          "Literature",
+          "Peace",
+          "Physics",
+          "Physiology or Medicine",
+          "Economic Sciences"
+        ],
+        "labels": [
+          "Overall",
+          "Chemistry",
+          "Literature",
+          "Peace",
+          "Physics",
+          "Physiology or Medicine",
+          "Economic Sciences"
+        ],
+        "name": "Category Selection: "
+      }
+    }
+  ],
+  "transform": [
+    {
+      "filter": "Category_selection == null || datum.category == Category_selection"
+    }
+  ],
+  "mark": {"type": "bar", "tooltip": true},
+  "encoding": {
+    "x": {"bin": true, "field": "ageReceivePrize", "title": "Age group"},
+    "y": {"aggregate": "count", "title": "Number of Nobel laureates"},
+    "color": {"value": "#B68D40"}
+  },
+  "config": {}
+}
