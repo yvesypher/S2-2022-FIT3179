@@ -1,31 +1,31 @@
-category,key,value
-France,Chemistry,10
-France,Economic Sciences,4
-France,Literature,11
-France,Peace,10
-France,Physics,10
-France,Physiology or Medicine,12
-Germany,Chemistry,27
-Germany,Economic Sciences,1
-Germany,Literature,7
-Germany,Peace,5
-Germany,Physics,27
-Germany,Physiology or Medicine,18
-Sweden,Chemistry,4
-Sweden,Economic Sciences,2
-Sweden,Literature,7
-Sweden,Peace,5
-Sweden,Physics,4
-Sweden,Physiology or Medicine,7
-United Kingdom,Chemistry,25
-United Kingdom,Economic Sciences,6
-United Kingdom,Literature,6
-United Kingdom,Peace,5
-United Kingdom,Physics,23
-United Kingdom,Physiology or Medicine,25
-United States of America,Chemistry,55
-United States of America,Economic Sciences,50
-United States of America,Literature,10
-United States of America,Peace,19
-United States of America,Physics,70
-United States of America,Physiology or Medicine,79
+category,key,value,valid
+France,Chemistry,10,1
+France,Economic Sciences,4,1
+France,Literature,11,1
+France,Peace,10,1
+France,Physics,10,1
+France,Physiology or Medicine,12,1
+Germany,Chemistry,27,1
+Germany,Economic Sciences,1,1
+Germany,Literature,7,1
+Germany,Peace,5,1
+Germany,Physics,27,1
+Germany,Physiology or Medicine,18,1
+Sweden,Chemistry,4,1
+Sweden,Economic Sciences,2,1
+Sweden,Literature,7,1
+Sweden,Peace,5,1
+Sweden,Physics,4,1
+Sweden,Physiology or Medicine,7,1
+United Kingdom,Chemistry,25,1
+United Kingdom,Economic Sciences,6,1
+United Kingdom,Literature,6,1
+United Kingdom,Peace,5,1
+United Kingdom,Physics,23,1
+United Kingdom,Physiology or Medicine,25,1
+United States of America,Chemistry,55,1
+United States of America,Economic Sciences,50,1
+United States of America,Literature,10,1
+United States of America,Peace,19,1
+United States of America,Physics,70,1
+United States of America,Physiology or Medicine,79,1
