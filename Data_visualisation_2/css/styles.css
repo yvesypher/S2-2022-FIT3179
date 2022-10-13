@@ -11,7 +11,8 @@ body {
 }
 
 .page {
-  width: 70%;
+  width: 80%;
+  height: 100%;
   background-color: white;
   margin: auto;
   padding: auto;
@@ -25,29 +26,26 @@ body {
   margin-right: auto
 }
 
-.description h2,
-h1 {
-  margin-top: 0px;
-}
-
-.description-right {
-  padding-left: 0px;
-}
-
-.description-left {
-  padding-right: 0px;
-}
-
 .pure-g {
   margin: auto;
 }
 
 .pure-u-1-1{
   margin-left: auto;
+  margin-right: auto;
+}
+
+.pure-u-1-2{
+  margin-left: auto;
   margin-right: auto
 }
 
-.pure-u-2-3{
+.pure-u-1-2{
+  margin-left: auto;
+  margin-right: auto
+}
+
+.pure-u-1-2{
   margin-left: auto;
   margin-right: auto
 }
