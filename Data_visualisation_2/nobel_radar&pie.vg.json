@@ -1,0 +1,360 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "title": "Top 5 countries by category",
+  "description": "A radar chart example, showing multiple dimensions in a radial layout.",
+  "width": 700,
+  "height": 400,
+  "padding": 50,
+  "autosize": {"type": "none", "contains": "padding"},
+  "signals": [
+    {"name": "radius", "update": "120"},
+    {
+      "name": "clear",
+      "value": true,
+      "on": [
+        {"events": "mouseup[!event.item]", "update": "true", "force": true}
+      ]
+    },
+    {
+      "name": "shift",
+      "value": false,
+      "on": [
+        {
+          "events": "@legendSymbol:click, @legendLabel:click",
+          "update": "event.shiftKey",
+          "force": true
+        }
+      ]
+    },
+    {
+      "name": "clicked",
+      "value": null,
+      "on": [
+        {
+          "events": "@legendSymbol:click, @legendLabel:click",
+          "update": "{values: datum.value}",
+          "force": true
+        }
+      ]
+    },
+    {
+      "name": "brush",
+      "value": 0,
+      "on": [
+        {"events": {"signal": "clear"}, "update": "clear ? [0, 0] : brush"},
+        {"events": "@xaxis:mousedown", "update": "[x(), x()]"},
+        {
+          "events": "[@xaxis:mousedown, window:mouseup] > window:mousemove!",
+          "update": "[brush[0], clamp(x(), 0, width)]"
+        },
+        {
+          "events": {"signal": "delta"},
+          "update": "clampRange([anchor[0] + delta, anchor[1] + delta], 0, width)"
+        }
+      ]
+    },
+    {
+      "name": "anchor",
+      "value": null,
+      "on": [{"events": "@brush:mousedown", "update": "slice(brush)"}]
+    },
+    {
+      "name": "xdown",
+      "value": 0,
+      "on": [{"events": "@brush:mousedown", "update": "x()"}]
+    },
+    {
+      "name": "delta",
+      "value": 0,
+      "on": [
+        {
+          "events": "[@brush:mousedown, window:mouseup] > window:mousemove!",
+          "update": "x() - xdown"
+        }
+      ]
+    },
+    {
+      "name": "domain",
+      "on": [
+        {
+          "events": {"signal": "brush"},
+          "update": "span(brush) ? invert('x', brush) : null"
+        }
+      ]
+    }
+  ],
+  "data": [
+    {
+      "name": "table",
+      "url": "https://raw.githubusercontent.com/yvesypher/S2-2022-FIT3179/main/Data_visualisation_2/data/nobel_radarchart_data.csv",
+      "format": {"type": "csv", "delimiter": ","}
+    },
+    {
+      "name": "table1",
+      "values": [
+        {
+          "country": "Others",
+          "value": 403,
+          "startAngle": 0,
+          "endAngle": 2.6738370420204576
+        },
+        {
+          "country": "Sweden",
+          "value": 29,
+          "startAngle": 2.6738370420204576,
+          "endAngle": 2.8662471517440142
+        },
+        {
+          "country": "France",
+          "value": 57,
+          "startAngle": 2.8662471517440142,
+          "endAngle": 3.244432539821349
+        },
+        {
+          "country": "Germany",
+          "value": 85,
+          "startAngle": 3.244432539821349,
+          "endAngle": 3.808393206252463
+        },
+        {
+          "country": "United Kingdom",
+          "value": 90,
+          "startAngle": 3.808393206252463,
+          "endAngle": 4.405528029532466
+        },
+        {
+          "country": "United States of America",
+          "value": 283,
+          "startAngle": 4.405528029532466,
+          "endAngle": 6.283185307179586
+        }
+      ],
+      "transform": [{"type": "pie", "field": "value"}]
+    },
+    {
+      "name": "keys",
+      "source": "table",
+      "transform": [{"type": "aggregate", "groupby": ["key"]}]
+    },
+    {
+      "name": "selected",
+      "on": [
+        {"trigger": "clear", "remove": true},
+        {"trigger": "!shift", "remove": true},
+        {"trigger": "!shift && clicked", "insert": "clicked"},
+        {"trigger": "shift && clicked", "toggle": "clicked"}
+      ]
+    }
+  ],
+  "scales": [
+    {
+      "name": "angular",
+      "type": "point",
+      "range": {"signal": "[-PI, PI]"},
+      "padding": 0.5,
+      "domain": {"data": "table", "field": "key"}
+    },
+    {
+      "name": "radial",
+      "type": "linear",
+      "range": {"signal": "[0, radius]"},
+      "zero": true,
+      "nice": false,
+      "domain": {"data": "table", "field": "value"},
+      "domainMin": 0
+    },
+    {
+      "name": "color",
+      "type": "ordinal",
+      "domain": {"data": "table", "field": "category"},
+      "range": ["#955196", "#dd5182", "#444e86", "#ff6e54", "#ffa600"]
+    },
+    {
+      "name": "color1",
+      "type": "ordinal",
+      "domain": {"data": "table1", "field": "country"},
+      "range": [
+        "#D3D3D3",
+        "#444e86",
+        "#955196",
+        "#dd5182",
+        "#ff6e54",
+        "#ffa600"
+      ]
+    }
+  ],
+  "encode": {"enter": {"x": {"signal": "radius"}, "y": {"signal": "radius"}}},
+  "legends": [
+    {
+      "fill": "color",
+      "title": "Top 5 Countries",
+      "orient": "none",
+      "gridAlign": "each",
+      "direction": "horizontal",
+      "legendX": -30,
+      "legendY": 160,
+      "titleAnchor": "middle",
+      "encode": {
+        "symbols": {
+          "name": "legendSymbol",
+          "interactive": true,
+          "update": {
+            "fillOpacity": [
+              {
+                "test": "!length(data('selected')) || indata('selected', 'values', datum.value)",
+                "value": 0.7
+              },
+              {"value": 0.15}
+            ]
+          }
+        },
+        "labels": {
+          "name": "legendLabel",
+          "interactive": true,
+          "update": {
+            "text": {"field": "value"},
+            "opacity": [
+              {
+                "test": "!length(data('selected')) || indata('selected', 'values', datum.value)",
+                "value": 1
+              },
+              {"value": 0.25}
+            ]
+          }
+        }
+      },
+      "labelFontSize": 10,
+      "titleFontSize": 12,
+      "labelFont": "Open Sans",
+      "titleFont": "Open Sans",
+      "symbolSize": 100,
+      "labelLimit": 200
+    }
+  ],
+  "marks": [
+    {
+      "type": "group",
+      "name": "categories",
+      "zindex": 1,
+      "from": {
+        "facet": {"data": "table", "name": "facet", "groupby": ["category"]}
+      },
+      "marks": [
+        {
+          "type": "line",
+          "name": "category-line",
+          "from": {"data": "facet"},
+          "encode": {
+            "update": {
+              "interpolate": {"value": "linear-closed"},
+              "x": {
+                "signal": "scale('radial', datum.value) * cos(scale('angular', datum.key))"
+              },
+              "y": {
+                "signal": "scale('radial', datum.value) * sin(scale('angular', datum.key))"
+              },
+              "stroke": {"scale": "color", "field": "category"},
+              "strokeWidth": [
+                {
+                  "test": "(!domain || inrange(datum.value, domain)) && (!length(data('selected')) || indata('selected', 'values', datum.category))",
+                  "value": 2
+                },
+                {"value": 0}
+              ],
+              "fill": {"scale": "color", "field": "category"},
+              "fillOpacity": [
+                {
+                  "test": "(!domain || inrange(datum.value, domain)) && (!length(data('selected')) || indata('selected', 'values', datum.category))",
+                  "value": 0.5
+                },
+                {"value": 0}
+              ],
+              "tooltip": {
+                "signal": "{'Country': datum.category, 'Category': datum.key, 'Number of Nobel Laureates': datum.value}"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "rule",
+      "name": "radial-grid",
+      "from": {"data": "keys"},
+      "zindex": 0,
+      "encode": {
+        "enter": {
+          "x": {"value": 0},
+          "y": {"value": 0},
+          "x2": {"signal": "radius * cos(scale('angular', datum.key))"},
+          "y2": {"signal": "radius * sin(scale('angular', datum.key))"},
+          "stroke": {"value": "lightgray"},
+          "strokeWidth": {"value": 1}
+        }
+      }
+    },
+    {
+      "type": "text",
+      "name": "key-label",
+      "from": {"data": "keys"},
+      "zindex": 1,
+      "encode": {
+        "enter": {
+          "x": {"signal": "(radius + 5) * cos(scale('angular', datum.key))"},
+          "y": {"signal": "(radius + 5) * sin(scale('angular', datum.key))"},
+          "text": {"field": "key"},
+          "align": [
+            {
+              "test": "abs(scale('angular', datum.key)) > PI / 2",
+              "value": "right"
+            },
+            {"value": "left"}
+          ],
+          "baseline": [
+            {"test": "scale('angular', datum.key) > 0", "value": "top"},
+            {"test": "scale('angular', datum.key) == 0", "value": "middle"},
+            {"value": "bottom"}
+          ],
+          "fill": {"value": "black"},
+          "fontWeight": {"value": "bold"}
+        }
+      }
+    },
+    {
+      "type": "line",
+      "name": "outer-line",
+      "from": {"data": "radial-grid"},
+      "encode": {
+        "enter": {
+          "interpolate": {"value": "linear-closed"},
+          "x": {"field": "x2"},
+          "y": {"field": "y2"},
+          "stroke": {"value": "lightgray"},
+          "strokeWidth": {"value": 1}
+        }
+      }
+    },
+    {
+      "type": "arc",
+      "from": {"data": "table1"},
+      "encode": {
+        "update": {
+          "fill": {"scale": "color1", "field": "country"},
+          "fillOpacity": [
+            {
+              "test": "(!domain || inrange(datum.value, domain)) && (!length(data('selected')) || indata('selected', 'values', datum.country))",
+              "value": 1
+            },
+            {"value": 0.3}
+          ],
+          "x": {"signal": "400"},
+          "y": {"signal": "0"},
+          "startAngle": {"field": "startAngle"},
+          "endAngle": {"field": "endAngle"},
+          "outerRadius": {"signal": "120"}
+        }
+      }
+    }
+  ],
+  "config": {}
+}

@@ -1,0 +1,83 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "description": "A basic pie chart example.",
+  "width": 200,
+  "height": 200,
+  "autosize": "none",
+  "data": [
+    {
+      "name": "table",
+      "values": [
+        {
+          "country": "Others",
+          "noLaureates": 403,
+          "startAngle": 0,
+          "endAngle": 2.6738370420204576
+        },
+        {
+          "country": "Sweden",
+          "noLaureates": 29,
+          "startAngle": 2.6738370420204576,
+          "endAngle": 2.8662471517440142
+        },
+        {
+          "country": "France",
+          "noLaureates": 57,
+          "startAngle": 2.8662471517440142,
+          "endAngle": 3.244432539821349
+        },
+        {
+          "country": "Germany",
+          "noLaureates": 85,
+          "startAngle": 3.244432539821349,
+          "endAngle": 3.808393206252463
+        },
+        {
+          "country": "United Kingdom",
+          "noLaureates": 90,
+          "startAngle": 3.808393206252463,
+          "endAngle": 4.405528029532466
+        },
+        {
+          "country": "United States of America",
+          "noLaureates": 283,
+          "startAngle": 4.405528029532466,
+          "endAngle": 6.283185307179586
+        }
+      ],
+      "transform": [{"type": "pie", "field": "noLaureates"}]
+    }
+  ],
+  "scales": [
+    {
+      "name": "color",
+      "type": "ordinal",
+      "domain": {"data": "table", "field": "country"},
+      "range": [
+        "#D3D3D3",
+        "#444e86",
+        "#955196",
+        "#dd5182",
+        "#ff6e54",
+        "#ffa600"
+      ]
+    }
+  ],
+  "marks": [
+    {
+      "type": "arc",
+      "from": {"data": "table"},
+      "encode": {
+        "enter": {
+          "fill": {"scale": "color", "field": "country"},
+          "x": {"signal": "width / 2"},
+          "y": {"signal": "height / 2"},
+          "startAngle": {"field": "startAngle"},
+          "endAngle": {"field": "endAngle"},
+          "outerRadius": {"signal": "width / 2"}
+        }
+      }
+    }
+  ],
+  "config": {}
+}
