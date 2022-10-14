@@ -1,54 +1,106 @@
 {
   "$schema": "https://vega.github.io/schema/vega/v5.json",
   "description": "A radar chart example, showing multiple dimensions in a radial layout.",
-  "width": 400,
+  "width": 450,
   "height": 400,
-  "padding": 40,
+  "padding": 50,
   "autosize": {"type": "none", "contains": "padding"},
   "signals": [
     {"name": "radius", "update": "120"},
     {
-      "name": "USA_select",
-      "value": 1,
-      "bind": {"input": "checkbox", "name": "United States of America"}
+      "name": "clear",
+      "value": true,
+      "on": [
+        {"events": "mouseup[!event.item]", "update": "true", "force": true}
+      ]
     },
     {
-      "name": "UK_select",
-      "value": 1,
-      "bind": {"input": "checkbox", "name": "United Kingdom"}
+      "name": "shift",
+      "value": false,
+      "on": [
+        {
+          "events": "@legendSymbol:click, @legendLabel:click",
+          "update": "event.shiftKey",
+          "force": true
+        }
+      ]
     },
     {
-      "name": "Sweden_select",
-      "value": 1,
-      "bind": {"input": "checkbox", "name": "Sweden"}
+      "name": "clicked",
+      "value": null,
+      "on": [
+        {
+          "events": "@legendSymbol:click, @legendLabel:click",
+          "update": "{values: datum.value}",
+          "force": true
+        }
+      ]
     },
     {
-      "name": "Germany_select",
-      "value": 1,
-      "bind": {"input": "checkbox", "name": "Germany"}
+      "name": "brush",
+      "value": 0,
+      "on": [
+        {"events": {"signal": "clear"}, "update": "clear ? [0, 0] : brush"},
+        {"events": "@xaxis:mousedown", "update": "[x(), x()]"},
+        {
+          "events": "[@xaxis:mousedown, window:mouseup] > window:mousemove!",
+          "update": "[brush[0], clamp(x(), 0, width)]"
+        },
+        {
+          "events": {"signal": "delta"},
+          "update": "clampRange([anchor[0] + delta, anchor[1] + delta], 0, width)"
+        }
+      ]
     },
     {
-      "name": "France_select",
-      "value": 1,
-      "bind": {"input": "checkbox", "name": "France"}
+      "name": "anchor",
+      "value": null,
+      "on": [{"events": "@brush:mousedown", "update": "slice(brush)"}]
+    },
+    {
+      "name": "xdown",
+      "value": 0,
+      "on": [{"events": "@brush:mousedown", "update": "x()"}]
+    },
+    {
+      "name": "delta",
+      "value": 0,
+      "on": [
+        {
+          "events": "[@brush:mousedown, window:mouseup] > window:mousemove!",
+          "update": "x() - xdown"
+        }
+      ]
+    },
+    {
+      "name": "domain",
+      "on": [
+        {
+          "events": {"signal": "brush"},
+          "update": "span(brush) ? invert('x', brush) : null"
+        }
+      ]
     }
   ],
   "data": [
     {
       "name": "table",
       "url": "https://raw.githubusercontent.com/yvesypher/S2-2022-FIT3179/main/Data_visualisation_2/data/nobel_radarchart_data.csv",
-      "format": {"type": "csv", "delimiter": ","},
-      "transform": [
-        {
-          "type": "filter",
-          "expr": "(datum.valid == USA_select && datum.category == 'United States of America')||(datum.valid == UK_select && datum.category == 'United Kingdom')||(datum.valid == Sweden_select && datum.category == 'Sweden')||(datum.valid == Germany_select && datum.category == 'Germany')||(datum.valid == France_select && datum.category == 'France')"
-        }
-      ]
+      "format": {"type": "csv", "delimiter": ","}
     },
     {
       "name": "keys",
       "source": "table",
       "transform": [{"type": "aggregate", "groupby": ["key"]}]
+    },
+    {
+      "name": "selected",
+      "on": [
+        {"trigger": "clear", "remove": true},
+        {"trigger": "!shift", "remove": true},
+        {"trigger": "!shift && clicked", "insert": "clicked"},
+        {"trigger": "shift && clicked", "toggle": "clicked"}
+      ]
     }
   ],
   "scales": [
@@ -76,6 +128,53 @@
     }
   ],
   "encode": {"enter": {"x": {"signal": "radius"}, "y": {"signal": "radius"}}},
+  "legends": [
+    {
+      "fill": "color",
+      "title": "Top 5 Countries",
+      "orient": "none",
+      "gridAlign": "each",
+      "direction": "horizontal",
+      "legendX": -160,
+      "legendY": 150,
+      "titleAnchor": "middle",
+      "encode": {
+        "symbols": {
+          "name": "legendSymbol",
+          "interactive": true,
+          "update": {
+            "fillOpacity": [
+              {
+                "test": "!length(data('selected')) || indata('selected', 'values', datum.value)",
+                "value": 0.7
+              },
+              {"value": 0.15}
+            ]
+          }
+        },
+        "labels": {
+          "name": "legendLabel",
+          "interactive": true,
+          "update": {
+            "text": {"field": "value"},
+            "opacity": [
+              {
+                "test": "!length(data('selected')) || indata('selected', 'values', datum.value)",
+                "value": 1
+              },
+              {"value": 0.25}
+            ]
+          }
+        }
+      },
+      "labelFontSize": 10,
+      "titleFontSize": 12,
+      "labelFont": "Open Sans",
+      "titleFont": "Open Sans",
+      "symbolSize": 100,
+      "labelLimit": 200
+    }
+  ],
   "marks": [
     {
       "type": "group",
@@ -90,7 +189,7 @@
           "name": "category-line",
           "from": {"data": "facet"},
           "encode": {
-            "enter": {
+            "update": {
               "interpolate": {"value": "linear-closed"},
               "x": {
                 "signal": "scale('radial', datum.value) * cos(scale('angular', datum.key))"
@@ -99,9 +198,21 @@
                 "signal": "scale('radial', datum.value) * sin(scale('angular', datum.key))"
               },
               "stroke": {"scale": "color", "field": "category"},
-              "strokeWidth": {"value": 1.5},
+              "strokeWidth": [
+                {
+                  "test": "(!domain || inrange(datum.value, domain)) && (!length(data('selected')) || indata('selected', 'values', datum.category))",
+                  "value": 2
+                },
+                {"value": 0}
+              ],
               "fill": {"scale": "color", "field": "category"},
-              "fillOpacity": {"value": 0.2},
+              "fillOpacity": [
+                {
+                  "test": "(!domain || inrange(datum.value, domain)) && (!length(data('selected')) || indata('selected', 'values', datum.category))",
+                  "value": 0.5
+                },
+                {"value": 0}
+              ],
               "tooltip": {
                 "signal": "{'Country': datum.category, 'Category': datum.key, 'Number of Nobel Laureates': datum.value}"
               }
