@@ -167,7 +167,7 @@
       "name": "color",
       "type": "ordinal",
       "domain": {"data": "table", "field": "category"},
-      "range": ["#955196", "#dd5182", "#444e86", "#ff6e54", "#ffa600"]
+      "range": ["#ffa600", "#ff6e54", "#dd5182", "#955196", "#444e86"]
     },
     {
       "name": "color1",
@@ -266,6 +266,31 @@
                 {
                   "test": "(!domain || inrange(datum.value, domain)) && (!length(data('selected')) || indata('selected', 'values', datum.category))",
                   "value": 0.5
+                },
+                {"value": 0}
+              ]
+            }
+          }
+        },
+        {
+          "type": "symbol",
+          "style": ["circle"],
+          "name": "category-point",
+          "from": {"data": "facet"},
+          "encode": {
+            "update": {
+              "interpolate": {"value": "linear-closed"},
+              "x": {
+                "signal": "scale('radial', datum.value) * cos(scale('angular', datum.key))"
+              },
+              "y": {
+                "signal": "scale('radial', datum.value) * sin(scale('angular', datum.key))"
+              },
+              "fill": {"scale": "color", "field": "category"},
+              "fillOpacity": [
+                {
+                  "test": "(!domain || inrange(datum.value, domain)) && (!length(data('selected')) || indata('selected', 'values', datum.category))",
+                  "value": 1
                 },
                 {"value": 0}
               ],
