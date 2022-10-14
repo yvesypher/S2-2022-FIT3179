@@ -351,7 +351,10 @@
           "y": {"signal": "0"},
           "startAngle": {"field": "startAngle"},
           "endAngle": {"field": "endAngle"},
-          "outerRadius": {"signal": "120"}
+          "outerRadius": {"signal": "120"},
+          "tooltip": {
+            "signal": "{'Country': datum.country,'Number of Nobel Laureates': datum.value}"
+          }
         }
       }
     }
