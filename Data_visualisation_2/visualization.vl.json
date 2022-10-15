@@ -1,0 +1,129 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/yvesypher/S2-2022-FIT3179/main/Data_visualisation_2/data/nobel_lc_data.csv"
+  },
+  "vconcat": [
+    {
+      "encoding": {
+        "x": {
+          "field": "awardYear",
+          "type": "temporal",
+          "timeUnit": "year",
+          "scale": {"domain": {"param": "brush"}}
+        }
+      },
+      "layer": [
+        {
+          "width": 480,
+          "encoding": {
+            "color": {
+              "field": "category",
+              "type": "nominal",
+              "scale": {
+                "range": [
+                  "#F28E28",
+                  "#5fa2ce",
+                  "#EDC948",
+                  "#E15759",
+                  "#76B7B2",
+                  "#D7B5A6"
+                ]
+              }
+            },
+            "y": {
+              "aggregate": "sum",
+              "field": "adjustedUSDPrizePerLaureate",
+              "type": "quantitative"
+            }
+          },
+          "layer": [
+            {
+              "mark": {
+                "type": "area",
+                "line": {
+                  "color": "darkgreen",
+                  "fillOpacity": 0.8,
+                  "strokeOpacity": 0.8
+                }
+              }
+            },
+            {
+              "transform": [{"filter": {"param": "hover", "empty": false}}],
+              "mark": "point"
+            }
+          ]
+        },
+        {
+          "transform": [
+            {
+              "pivot": "category",
+              "value": "adjustedUSDPrizePerLaureate",
+              "groupby": ["awardYear"]
+            }
+          ],
+          "mark": "rule",
+          "encoding": {
+            "opacity": {
+              "condition": {"value": 0.5, "param": "hover", "empty": false},
+              "value": 0
+            },
+            "tooltip": [
+              {
+                "field": "awardYear",
+                "type": "temporal",
+                "timeUnit": "year",
+                "title": "Year"
+              },
+              {"field": "Chemistry", "type": "quantitative", "format": ".2f"},
+              {"field": "Literature", "type": "quantitative", "format": ".2f"},
+              {
+                "field": "Economic Sciences",
+                "type": "quantitative",
+                "format": ".2f"
+              },
+              {"field": "Peace", "type": "quantitative", "format": ".2f"},
+              {"field": "Physics", "type": "quantitative", "format": ".2f"},
+              {
+                "field": "Physiology or Medicine",
+                "type": "quantitative",
+                "format": ".2f"
+              }
+            ]
+          },
+          "params": [
+            {
+              "name": "hover",
+              "select": {
+                "type": "point",
+                "fields": ["awardYear"],
+                "nearest": true,
+                "on": "mouseover",
+                "clear": "mouseout"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "width": 480,
+      "height": 80,
+      "mark": "line",
+      "params": [
+        {"name": "brush", "select": {"type": "interval", "encodings": ["x"]}}
+      ],
+      "encoding": {
+        "x": {"field": "awardYear", "type": "temporal", "title": "Year"},
+        "y": {
+          "field": "adjustedUSDPrizePerLaureate",
+          "type": "quantitative",
+          "axis": {"tickCount": 3, "grid": false},
+          "title": "Total money prize ($USD)"
+        },
+        "color": {"value": "#7b848f"}
+      }
+    }
+  ],
+  "config": {}
+}

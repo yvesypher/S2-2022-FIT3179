@@ -1,6 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Nobel Laureates By Country (1901 - 2021)",
+  "title": {"text":"Nobel Laureates By Country (1901 - 2021)",
+            "anchor":"centre",
+          "dy":40},
   "width": 600,
   "height": 400,
   "data": {
@@ -72,5 +74,5 @@
       }
     }
   ],
-  "config": {}
+  "config": {"view": {"stroke":"transparent"}}
 }
