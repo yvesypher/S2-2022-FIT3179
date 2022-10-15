@@ -53,30 +53,41 @@
 
     <!-- pure grid group -->
     <div class="pure-g">
-      <div class="pure-u-2-3">
-        <h2>USA dominates the world in Nobel Prize</h2>
-        <div id="vis2" class="vis-container"></div>
-      </div>
-      <div class="pure-u-1-2">
+      <div class="pure-u-1-3">
         <div class="description description-left">
-          
           <p>
-            The first column contains text and the second column <br>
-            contains a visualisation. Lorem ipsum dolor sit amet, <br>
-            consectetur adipiscing elit, sed do eiusmod tempor <br>
-            incididunt ut labore et dolore magna aliqua. Massa <br>
-            sapien faucibus et molestie ac feugiat sed. Lorem ipsum <br>
-            dolor sit amet, consectetur adipiscing elit, sed do eiusmod <br>
-            tempor incididunt ut labore et dolore magna aliqua.<br>
-            Massa sapien faucibus et molestie ac feugiat sed. </p>
+            These figures illustrate the number of<br>
+            Nobel winners among top five countries.<br>
+            On the whole, these top 5 countries account<br>
+            for more than half of the number of Nobel<br>
+            winners worldwide. This is reasonable as<br>
+            these are the world leading countries with<br>
+            long-term history in science, social, and<br>
+            economic development. It is noticeable that<br>
+            USA takes up more than a quarter of the <br>
+            worldwide figure. It leads the world in <br>
+            the number of Nobel laureates, followed <br>
+            by United Kingdom, Germany, France, and <br>
+            Sweeden. The gap between USA and these <br>
+            European countries are considerably huge.<br>
+            USA outweights other countries in not only <br>
+            the total number of Nobel laureates <br>
+            but also in each category.</p>
         </div>
       </div>
+      <div class="pure-u-2-3">
+        <div id="vis2" class="vis-container"></div>
+      </div>
+      
       </div>
     
     <!-- end pure grid group -->
 
     <!-- pure grid group -->
     <div class="pure-g">
+      <div class="pure-u-1-2">
+        <div id="vis3" class="vis-container"></div>
+      </div>
       <div class="pure-u-1-2">
         <div class="description description-left">
           <h2>USA dominates the world in Nobel Prize</h2>
@@ -91,9 +102,7 @@
             Massa sapien faucibus et molestie ac feugiat sed. </p>
         </div>
       </div>
-      <div class="pure-u-1-2">
-        <div id="vis2" class="vis-container"></div>
-      </div>
+      
     
     <!-- end pure grid group -->
 
@@ -141,7 +150,7 @@
   <script type="text/javascript">
     var specVis1 = "./nobel_map.vl.json";
     var specVis2 = "./nobel_radar&pie.vg.json";
-    var specVis3 = "./nobel_boxplot.vl.json";
+    var specVis3 = "./nobel_scatterplot.vl.json";
     var specVis4 = "./nobel_stackedbar.vl.json";
 
     vegaEmbed('#vis1', specVis1, { "actions": false }).then(function (result) {

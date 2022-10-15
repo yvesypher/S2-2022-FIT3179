@@ -3,7 +3,7 @@
   "title": {"text":"Nobel Laureates By Country (1901 - 2021)",
             "anchor":"centre",
           "dy":40},
-  "width": 600,
+  "width": 900,
   "height": 400,
   "data": {
     "url": "https://raw.githubusercontent.com/yvesypher/S2-2022-FIT3179/main/Data_visualisation_2/js/ne_110m.topojson",

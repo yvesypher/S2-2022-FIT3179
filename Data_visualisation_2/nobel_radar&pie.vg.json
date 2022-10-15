@@ -1,9 +1,13 @@
 {
   "$schema": "https://vega.github.io/schema/vega/v5.json",
-  "title": "Top 5 countries by category",
+  "title": {
+    "text": "Top 5 countries with most Nobel winners by category",
+    "dx": -35,
+    "dy": -10
+  },
   "description": "A radar chart example, showing multiple dimensions in a radial layout.",
-  "width": 700,
-  "height": 400,
+  "width": 630,
+  "height": 380,
   "padding": 50,
   "autosize": {"type": "none", "contains": "padding"},
   "signals": [
@@ -191,8 +195,8 @@
       "orient": "none",
       "gridAlign": "each",
       "direction": "horizontal",
-      "legendX": -30,
-      "legendY": 160,
+      "legendX": -65,
+      "legendY": 170,
       "titleAnchor": "middle",
       "encode": {
         "symbols": {
@@ -372,7 +376,7 @@
             },
             {"value": 0.3}
           ],
-          "x": {"signal": "400"},
+          "x": {"signal": "330"},
           "y": {"signal": "0"},
           "startAngle": {"field": "startAngle"},
           "endAngle": {"field": "endAngle"},
