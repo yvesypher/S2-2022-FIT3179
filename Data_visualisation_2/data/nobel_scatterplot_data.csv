@@ -1,28 +1,30 @@
 university,country,noOfNobelLaureates,worldRanking
 Harvard University, United States of America,44,3
-Massachusetts Institute of Technology (MIT), United States of America,31,1
+Massachusetts Institute of Technology, United States of America,31,1
 Stanford University, United States of America,33,2
-"University of California,Berkeley", United States of America,29,30
+"University of California, Berkeley", United States of America,29,30
 University of Chicago, United States of America,28,9
-California Institute of Technology (Caltech), United States of America,27,4
+California Institute of Technology, United States of America,27,4
 Princeton University, United States of America,26,12
 University of Cambridge, United Kingdom,25,7
 Columbia University, United States of America,24,19
 Rockefeller University, United States of America,23,89
-University of Oxford, United Kingdom,20,5
-Cornell University, United States of America,19,18
-Yale University, United States of America,18,17
-Berlin University, Germany,17,95
-London University, United Kingdom,16,16
-Sorbonne University, France,15,72
-University College London, United Kingdom,14,8
-University of Heidelberg, Germany,13,54
-Goettingen University, Germany,12,149
-"University of California, Los Angeles", United States of America,11,36
-Uppsala University, Sweden,10,124
-Johns Hopkins University School of Medicine, United States of America,9,25
-Munich University, Germany,8,46
-"University of California, Santa Barbara", United States of America,7,152
-University of Illinois, United States of America,6,82
-University of Pennsylvania, United States of America,5,16
-University of Washington, United States of America,4,72
+University of Oxford, United Kingdom,22,5
+Cornell University, United States of America,21,18
+Yale University, United States of America,20,17
+Berlin University, Germany,19,95
+London University, United Kingdom,18,16
+Sorbonne University, France,17,72
+University College London, United Kingdom,16,8
+University of Heidelberg, Germany,15,54
+Goettingen University, Germany,14,149
+"University of California, Los Angeles", United States of America,13,36
+Uppsala University, Sweden,12,124
+Johns Hopkins University School of Medicine, United States of America,11,25
+Munich University, Germany,10,46
+Karolinska Institutet, Sweden,9,53
+"University of California, Santa Barbara", United States of America,8,152
+University of Illinois, United States of America,7,82
+University of Pennsylvania, United States of America,6,16
+University of Washington, United States of America,5,72
+Collège de France, France,4,100

@@ -17,7 +17,7 @@ body {
   margin: auto;
   padding: auto;
   padding-top: auto;
-  text-align: center;
+  text-align: justify;
 }
 
 .vis-container {
@@ -52,4 +52,8 @@ body {
 
 .small-font {
   font-size: 14px;
+}
+
+.vega-bind {
+text-align: center;
 }

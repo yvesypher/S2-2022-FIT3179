@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "Nobel Prize by Age",
-  "width": 300,
-  "height": 300,
+  "width": 450,
+  "height": 250,
   "data": {
     "url": "https://raw.githubusercontent.com/yvesypher/S2-2022-FIT3179/main/Data_visualisation_2/data/nobel_boxplot_data.csv"
   },

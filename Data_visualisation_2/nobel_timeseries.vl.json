@@ -1,5 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title":{"text":"Money Prize per Nobel laureates from 1901 to 2021",
+"anchor": "middle"},
   "data": {
     "url": "https://raw.githubusercontent.com/yvesypher/S2-2022-FIT3179/main/Data_visualisation_2/data/nobel_lc_data.csv"
   },
@@ -11,12 +13,13 @@
           "type": "temporal",
           "timeUnit": "year",
           "scale": {"domain": {"param": "brush"}},
-          "title": "Year"
+          "title": null
         }
       },
       "layer": [
         {
           "width": 480,
+          "height": 250,
           "encoding": {
             "color": {
               "field": "category",
@@ -27,17 +30,24 @@
                   "#5fa2ce",
                   "#EDC948",
                   "#E15759",
-                  "#76B7B2",
+                  "#58508d",
                   "#D7B5A6"
                 ]
               },
-              "legend": {"title": "Category"}
+              "legend": {
+                "title": "Category",
+                "titleOrient":"left",
+                "orient": "none",
+                "direction": "horizontal",
+                "legendY": 430,
+                "legendX": -60
+              }
             },
             "y": {
               "aggregate": "sum",
               "field": "adjustedUSDPrizePerLaureate",
               "type": "quantitative",
-              "title": "Adjusted Money Prize ($USD)"
+              "title": "Money Prize ($USD)"
             }
           },
           "layer": [
@@ -82,37 +92,37 @@
                 "field": "Chemistry",
                 "type": "quantitative",
                 "format": ".2f",
-                "title": "Money prize per laureate in Chemistry"
+                "title": "Adjusted money prize for 2021 per Chemistry laureate "
               },
               {
                 "field": "Literature",
                 "type": "quantitative",
                 "format": ".2f",
-                "title": "Money prize per laureate in Literature"
+                "title": "Adjusted money prize for 2021 per Literature laureate"
               },
               {
                 "field": "Economic Sciences",
                 "type": "quantitative",
                 "format": ".2f",
-                "title": "Money prize per laureate in Economic Sciences"
+                "title": "Adjusted money prize for 2021 per Economic Sciences laureate"
               },
               {
                 "field": "Peace",
                 "type": "quantitative",
                 "format": ".2f",
-                "title": "Money prize per laureate in Peace"
+                "title": "Adjusted money prize for 2021 per Peace laureate"
               },
               {
                 "field": "Physics",
                 "type": "quantitative",
                 "format": ".2f",
-                "title": "Money prize per laureate in Physics"
+                "title": "Adjusted money prize for 2021 per Physics laureate"
               },
               {
                 "field": "Physiology or Medicine",
                 "type": "quantitative",
                 "format": ".2f",
-                "title": "Money prize per laureate in Physiology or Medicine"
+                "title": "Adjusted money prize for 2021 per Physiology or Medicine laureate"
               }
             ]
           },
@@ -144,7 +154,7 @@
           "field": "adjustedUSDPrizePerLaureate",
           "type": "quantitative",
           "axis": {"tickCount": 3, "grid": false},
-          "title": "Adjusted Money Prize ($USD)"
+          "title": "Money Prize ($USD)"
         },
         "color": {"value": "#7b848f"}
       }

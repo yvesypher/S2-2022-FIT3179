@@ -1,8 +1,10 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Nobel Laureates by University",
-  "width": 300,
-  "height": 200,
+  "title": "Top 30 affliated universitieswith the most Nobel laureates ",
+  "width": 400,
+  "height": 300,
+  "padding":{"right":-55,
+"left": -25},
   "data": {
     "url": "https://raw.githubusercontent.com/yvesypher/S2-2022-FIT3179/main/Data_visualisation_2/data/nobel_scatterplot_data.csv"
   },
@@ -27,7 +29,7 @@
           "France",
           "Sweden"
         ],
-        "name": "Select country: "
+        "name": "Filter by country:"
       }
     }
   ],
@@ -91,7 +93,7 @@
         "type": "text",
         "align": "center",
         "baseline": "middle",
-        "dx": -25,
+        "dx": -20,
         "dy": -11,
         "fontSize": 10,
         "fontStyle": "italic",

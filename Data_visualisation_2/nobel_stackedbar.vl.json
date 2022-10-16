@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "Nobel Laureates by category (1901 - 2021)",
-  "width": 200,
+  "width": 480,
   "height": 200,
   "data": {
     "url": "https://raw.githubusercontent.com/yvesypher/S2-2022-FIT3179/main/Data_visualisation_2/data/nobel_stackedbar_data.csv"
@@ -11,7 +11,12 @@
       "params": [
         {
           "name": "prizeshare_highlight",
-          "select": {"type": "point", "fields": ["prizeShare"]},
+          "select": {
+            "type": "point",
+            "fields": [
+              "prizeShare"
+            ]
+          },
           "bind": "legend"
         }
       ],
@@ -22,15 +27,39 @@
           "field": "prizeShare",
           "title": "Number of Nobel Laureates"
         },
-        "y": {"field": "category", "title": "Category"},
-        "color": {"field": "prizeShare", "title": "Prize Share"},
+        "y": {
+          "field": "category",
+          "title": "Category"
+        },
+        "color": {
+          "field": "prizeShare",
+          "title": "Prize Share",
+          "legend": {
+            "title": "Category",
+            "titleOrient": "left",
+            "orient": "none",
+            "direction": "horizontal",
+            "legendY": 240
+          }
+        },
         "opacity": {
-          "condition": {"param": "prizeshare_highlight", "value": 0.9},
+          "condition": {
+            "param": "prizeshare_highlight",
+            "value": 0.9
+          },
           "value": 0.2
         },
         "tooltip": [
-          {"field": "category", "type": "nominal", "title": "Category"},
-          {"field": "prizeShare", "type": "nominal", "title": "Prize Share"},
+          {
+            "field": "category",
+            "type": "nominal",
+            "title": "Category"
+          },
+          {
+            "field": "prizeShare",
+            "type": "nominal",
+            "title": "Prize Share"
+          },
           {
             "aggregate": "count",
             "field": "prizeShare",
@@ -41,13 +70,29 @@
       }
     },
     {
-      "mark": {"type": "text", "align": "left", "baseline": "middle", "dx": 3},
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "dx": 3
+      },
       "encoding": {
-        "x": {"aggregate": "count", "field": "prizeShare", "stack": "zero"},
-        "y": {"field": "category", "type": "nominal"},
+        "x": {
+          "aggregate": "count",
+          "field": "prizeShare",
+          "stack": "zero"
+        },
+        "y": {
+          "field": "category",
+          "type": "nominal"
+        },
         "color": {
           "type": "nominal",
-          "scale": {"range": ["white"]},
+          "scale": {
+            "range": [
+              "white"
+            ]
+          },
           "legend": null
         },
         "text": {
