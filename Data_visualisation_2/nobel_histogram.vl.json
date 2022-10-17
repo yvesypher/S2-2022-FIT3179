@@ -1,8 +1,10 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Nobel Prize by Age",
-  "width": 450,
-  "height": 250,
+  "title": {"text":"Nobel Prize by Age","fontSize":15},
+  "width": 400,
+  "height": 300,
+  "background":"transparent",
+  "padding":{"right": 20,"left": 30,"bottom": 5},
   "data": {
     "url": "https://raw.githubusercontent.com/yvesypher/S2-2022-FIT3179/main/Data_visualisation_2/data/nobel_boxplot_data.csv"
   },
@@ -29,7 +31,7 @@
           "Physiology or Medicine",
           "Economic Sciences"
         ],
-        "name": "Category Selection: "
+        "name": "Filter: "
       }
     }
   ],
@@ -40,9 +42,9 @@
   ],
   "mark": {"type": "bar", "tooltip": true},
   "encoding": {
-    "x": {"bin": true, "field": "ageReceivePrize", "title": "Age group"},
-    "y": {"aggregate": "count", "title": "Number of Nobel laureates"},
+          "x": {"bin": true, "field": "ageReceivePrize", "title": "Age group","axis": {"titleFontSize": 12, "domainColor":"#D6AD60"}},
+    "y": {"aggregate": "count", "title": "Number of Nobel laureates", "axis": {"titleFontSize": 12, "domainColor":"#D6AD60"}},
     "color": {"value": "#B68D40"}
   },
-  "config": {}
+  "config": {"axis": {"gridColor":"#D6AD60","gridOpacity":0.5,"tickColor":"#D6AD60"},"style": {"cell": {"stroke": "#D6AD60"}},"font": "Lato"}
 }

@@ -1,8 +1,10 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Nobel Laureates by category (1901 - 2021)",
+  "title": {"text":"Nobel Laureates by category (1901 - 2021)","fontSize":15},
   "width": 480,
-  "height": 200,
+  "height": 250,
+  "background":"transparent",
+  "padding":{"left": 35, "top":5},
   "data": {
     "url": "https://raw.githubusercontent.com/yvesypher/S2-2022-FIT3179/main/Data_visualisation_2/data/nobel_stackedbar_data.csv"
   },
@@ -25,21 +27,25 @@
         "x": {
           "aggregate": "count",
           "field": "prizeShare",
-          "title": "Number of Nobel Laureates"
+          "title": "Number of Nobel Laureates",
+          "axis": {"titleFontSize": 12, "domainColor":"#D6AD60"}
         },
         "y": {
           "field": "category",
-          "title": "Category"
+          "title": "Category",
+          "axis": {"titleFontSize": 12, "domainColor":"#D6AD60"}
         },
         "color": {
           "field": "prizeShare",
           "title": "Prize Share",
           "legend": {
+            "padding":4,
             "title": "Category",
-            "titleOrient": "left",
+            "titleAnchor":"middle",
             "orient": "none",
-            "direction": "horizontal",
-            "legendY": 240
+            "direction": "vertical",
+            "legendY": 75,
+            "legendX": 329.5
           }
         },
         "opacity": {
@@ -103,5 +109,5 @@
       }
     }
   ],
-  "config": {}
+  "config": {"axis": {"gridColor":"#D6AD60","gridOpacity":0.5,"tickColor":"#D6AD60"},"style": {"cell": {"stroke": "#D6AD60"}},"font": "Lato"}
 }

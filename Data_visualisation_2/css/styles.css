@@ -1,19 +1,32 @@
 body *{
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 
 h1 {
+  font-family: 'Lato', sans-serif;
   font-weight: 900;
+  font-size: 45pt;
+  background: -webkit-linear-gradient(#FBC740, #B68D40,#6e4d0f);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+h2 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 900;
+  font-size: 25pt;
+  color: #B68D40;
+  text-align: center;
 }
 
 body {
-    background-image: url('https://user-images.githubusercontent.com/91320868/194753675-5fe2b64e-96c0-444f-b817-12ec7397ac06.jpg');
+    background-color: #D6AD60;
 }
 
 .page {
   width: 80%;
   height: 100%;
-  background-color: white;
+  background-color: #F4EBD0;
   margin: auto;
   padding: auto;
   padding-top: auto;
@@ -56,4 +69,5 @@ body {
 
 .vega-bind {
 text-align: center;
+padding: 5px;
 }

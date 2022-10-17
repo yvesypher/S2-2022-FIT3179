@@ -3,12 +3,14 @@
   "title": {
     "text": "Top 5 countries with most Nobel winners by category",
     "dx": -35,
-    "dy": -10
+    "dy": -10,
+    "fontSize":15
   },
   "description": "A radar chart example, showing multiple dimensions in a radial layout.",
-  "width": 630,
+  "width": 650,
   "height": 380,
-  "padding": 50,
+  "padding": {"top": 62,
+"left":75},
   "autosize": {"type": "none", "contains": "padding"},
   "signals": [
     {"name": "radius", "update": "120"},
@@ -178,7 +180,7 @@
       "type": "ordinal",
       "domain": {"data": "table1", "field": "country"},
       "range": [
-        "#D3D3D3",
+        "#d9d4c6 ",
         "#444e86",
         "#955196",
         "#dd5182",
@@ -193,11 +195,11 @@
       "fill": "color",
       "title": "Top 5 Countries",
       "orient": "none",
+      "titleOrient":"left",
       "gridAlign": "each",
       "direction": "horizontal",
-      "legendX": -65,
-      "legendY": 170,
-      "titleAnchor": "middle",
+      "legendX": -100,
+      "legendY": 160,
       "encode": {
         "symbols": {
           "name": "legendSymbol",
@@ -229,8 +231,8 @@
       },
       "labelFontSize": 10,
       "titleFontSize": 12,
-      "labelFont": "Open Sans",
-      "titleFont": "Open Sans",
+      "labelFont": "Lato",
+      "titleFont": "Lato",
       "symbolSize": 100,
       "labelLimit": 200
     }
@@ -317,7 +319,7 @@
           "y": {"value": 0},
           "x2": {"signal": "radius * cos(scale('angular', datum.key))"},
           "y2": {"signal": "radius * sin(scale('angular', datum.key))"},
-          "stroke": {"value": "lightgray"},
+          "stroke": {"value": "#B68D40"},
           "strokeWidth": {"value": 1}
         }
       }
@@ -358,7 +360,7 @@
           "interpolate": {"value": "linear-closed"},
           "x": {"field": "x2"},
           "y": {"field": "y2"},
-          "stroke": {"value": "lightgray"},
+          "stroke": {"value": "#B68D40"},
           "strokeWidth": {"value": 1}
         }
       }
@@ -388,5 +390,5 @@
       }
     }
   ],
-  "config": {}
+  "config": {"font": "Lato"}
 }

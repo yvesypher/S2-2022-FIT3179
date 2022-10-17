@@ -1,7 +1,9 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title":{"text":"Money Prize per Nobel laureates from 1901 to 2021",
-"anchor": "middle"},
+  "title":{"text":"Money Prize per Nobel laureate from 1901 to 2021",
+"anchor": "middle","fontSize":15,"dx":30},
+"padding":{"left": 20,"right": 15},
+"background":"transparent",
   "data": {
     "url": "https://raw.githubusercontent.com/yvesypher/S2-2022-FIT3179/main/Data_visualisation_2/data/nobel_lc_data.csv"
   },
@@ -13,12 +15,13 @@
           "type": "temporal",
           "timeUnit": "year",
           "scale": {"domain": {"param": "brush"}},
-          "title": null
+          "title": null,
+          "axis":{"domainColor":"#D6AD60"}
         }
       },
       "layer": [
         {
-          "width": 480,
+          "width": 540,
           "height": 250,
           "encoding": {
             "color": {
@@ -40,18 +43,38 @@
                 "orient": "none",
                 "direction": "horizontal",
                 "legendY": 430,
-                "legendX": -60
+                "legendX": 0
               }
             },
+        "opacity": {
+          "condition": {
+            "param": "category_highlight",
+            "value": 0.7
+          },
+          "value": 0.1
+        },
             "y": {
               "aggregate": "sum",
               "field": "adjustedUSDPrizePerLaureate",
               "type": "quantitative",
-              "title": "Money Prize ($USD)"
+              "title": "Money Prize ($USD)",
+              "axis":{"titleFontSize": 12, "domainColor":"#D6AD60"}
             }
           },
           "layer": [
             {
+              "params": [
+        {
+          "name": "category_highlight",
+          "select": {
+            "type": "point",
+            "fields": [
+              "category"
+            ]
+          },
+          "bind": "legend"
+        }
+      ],
               "mark": {
                 "type": "area",
                 "line": {
@@ -142,23 +165,23 @@
       ]
     },
     {
-      "width": 480,
+      "width": 540,
       "height": 80,
       "mark": "line",
       "params": [
         {"name": "brush", "select": {"type": "interval", "encodings": ["x"]}}
       ],
       "encoding": {
-        "x": {"field": "awardYear", "type": "temporal", "title": "Year"},
+        "x": {"field": "awardYear", "type": "temporal", "title": "Year", "axis": {"titleFontSize": 12, "domainColor":"#D6AD60"}},
         "y": {
           "field": "adjustedUSDPrizePerLaureate",
           "type": "quantitative",
-          "axis": {"tickCount": 3, "grid": false},
+          "axis": {"tickCount": 3, "grid": false,"domainColor":"#D6AD60"},
           "title": "Money Prize ($USD)"
         },
-        "color": {"value": "#7b848f"}
+        "color": {"value": "#B68D40"}
       }
     }
   ],
-  "config": {}
+  "config": {"axis": {"gridColor":"#D6AD60","gridOpacity":0.5,"tickColor":"#D6AD60"},"style": {"cell": {"stroke": "#D6AD60"}},"font": "Lato"}
 }

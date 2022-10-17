@@ -1,10 +1,12 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Top 30 affliated universitieswith the most Nobel laureates ",
+  "title": {"text":"Top 30 affliated universities with the most Nobel laureates",
+"fontSize":15},
   "width": 400,
   "height": 300,
-  "padding":{"right":-55,
-"left": -25},
+  "padding":{"right":0,
+"left":-20,"bottom": 5},
+"background":"transparent",
   "data": {
     "url": "https://raw.githubusercontent.com/yvesypher/S2-2022-FIT3179/main/Data_visualisation_2/data/nobel_scatterplot_data.csv"
   },
@@ -40,14 +42,15 @@
       "title": "World Ranking",
       "sort": "descending",
       "scale": {"domain": [1, 160]},
-      "axis": {"titleFontSize": 12}
+      "axis": {"titleFontSize": 12, "domainColor":"#D6AD60","domainOpacity":0.5}
+      
     },
     "y": {
       "field": "noOfNobelLaureates",
       "type": "quantitative",
       "title": "Number of Nobel Laureates",
       "scale": {"domain": [1, 50]},
-      "axis": {"titleFontSize": 12}
+      "axis": {"titleFontSize": 12, "domainColor":"#D6AD60","domainOpacity":0.5}
     }
   },
   "layer": [
@@ -55,6 +58,7 @@
       "mark": {"type": "circle", "size": 100},
       "encoding": {
         "color": {
+          "title": "Top 5 countries",
           "field": "country",
           "type": "nominal",
           "scale": {
@@ -67,7 +71,7 @@
             ],
             "range": ["#ffa600", "#ff6e54", "#dd5182", "#955196", "#444e86"]
           },
-          "legend": null
+          "legend":{"orient": "none","legendX":60,"legendY":50}
         },
         "opacity": {
           "condition": {
@@ -93,7 +97,7 @@
         "type": "text",
         "align": "center",
         "baseline": "middle",
-        "dx": -20,
+        "dx": -25,
         "dy": -11,
         "fontSize": 10,
         "fontStyle": "italic",
@@ -112,5 +116,5 @@
       }
     }
   ],
-  "config": {}
+  "config": {"axis": {"gridColor":"#D6AD60","gridOpacity":0.5,"tickColor":"#D6AD60"},"style": {"cell": {"stroke": "#D6AD60"}},"font": "Lato"}
 }

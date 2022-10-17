@@ -1,10 +1,12 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": {"text":"Nobel Laureates By Country (1901 - 2021)",
+  "title": {"text":"Nobel laureates by country (1901 - 2021)",
             "anchor":"middle",
           "dy":40},
-  "width": 900,
+  "width": 600,
   "height": 400,
+  "background":"transparent",
+  "padding":{"left":30,"top":-20},
   "data": {
     "url": "https://raw.githubusercontent.com/yvesypher/S2-2022-FIT3179/main/Data_visualisation_2/js/ne_110m.topojson",
     "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
@@ -74,5 +76,5 @@
       }
     }
   ],
-  "config": {"view": {"stroke":"transparent"}}
+  "config": {"view": {"stroke":"transparent"},"font": "Lato"}
 }
