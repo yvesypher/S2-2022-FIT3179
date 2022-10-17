@@ -39,7 +39,7 @@
     "x": {
       "field": "worldRanking",
       "type": "quantitative",
-      "title": "2021 World Ranking",
+      "title": "2021 World universities ranking",
       "sort": "descending",
       "scale": {"domain": [1, 160]},
       "axis": {"titleFontSize": 12, "domainColor":"#D6AD60","domainOpacity":0.5}
@@ -88,7 +88,7 @@
             "type": "nominal",
             "title": "Number of Nobel Laureates"
           },
-          {"field": "worldRanking", "type": "nominal", "title": "World Ranking"}
+          {"field": "worldRanking", "type": "nominal", "title": " 2021 World universities ranking"}
         ]
       }
     },
