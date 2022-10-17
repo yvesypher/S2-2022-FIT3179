@@ -74,7 +74,29 @@
           {"field": "noOfNobelLaureates", "type": "quantitative", "title": "Number of Nobel Laureates"}
         ]
       }
-    }
+    },
+    {
+      "transform": [
+          {
+              "filter": "datum.properties.NAME== 'United States of America'"
+          }
+      ],
+      "mark": {
+          "type": "text",
+          "font": "Lato",
+          "x": 150,
+          "y": 110,
+          "fontWeight": "bold",
+          "fontStyle":"italic",
+          "color": "white",
+          "fontSize": 6.5
+      },
+      "encoding": {
+          "text": {
+              "value": ["USA has the most","Nobel laureates (283)"]
+          }
+      }
+  }
   ],
   "config": {"view": {"stroke":"transparent"},"font": "Lato"}
 }

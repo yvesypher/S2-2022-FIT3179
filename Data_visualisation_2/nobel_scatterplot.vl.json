@@ -3,7 +3,7 @@
   "title": {"text":"Top 30 affiliate universities with the most Nobel laureates",
 "fontSize":15},
   "width": 400,
-  "height":300,
+  "height":330,
   "padding":{"right":0,
 "left":-20,"bottom": 5},
 "background":"transparent",
@@ -39,7 +39,7 @@
     "x": {
       "field": "worldRanking",
       "type": "quantitative",
-      "title": "World Ranking",
+      "title": "2021 World Ranking",
       "sort": "descending",
       "scale": {"domain": [1, 160]},
       "axis": {"titleFontSize": 12, "domainColor":"#D6AD60","domainOpacity":0.5}
