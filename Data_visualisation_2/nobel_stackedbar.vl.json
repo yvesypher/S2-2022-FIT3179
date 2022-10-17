@@ -1,47 +1,48 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": {"text":"Nobel Laureates by category (1901 - 2021)","fontSize":15},
+  "title": {
+    "text": "Nobel Laureates by category (1901 - 2021)",
+    "fontSize": 15
+  },
   "width": 480,
   "height": 250,
-  "background":"transparent",
-  "padding":{"left": 35, "top":5},
+  "background": "transparent",
+  "padding": {"left": 35, "top": 5},
+  "resolve": {"scale": {"color": "independent"}},
   "data": {
-    "url": "https://raw.githubusercontent.com/yvesypher/S2-2022-FIT3179/main/Data_visualisation_2/data/nobel_stackedbar_data.csv"
+    "url": "https://raw.githubusercontent.com/yvesypher/S2-2022-FIT3179/main/Data_visualisation_2/data/nobel_pivotstackedbar_data.csv"
   },
   "layer": [
     {
       "params": [
         {
           "name": "prizeshare_highlight",
-          "select": {
-            "type": "point",
-            "fields": [
-              "prizeShare"
-            ]
-          },
+          "select": {"type": "point", "fields": ["prizeShare"]},
           "bind": "legend"
         }
       ],
       "mark": "bar",
       "encoding": {
         "x": {
-          "aggregate": "count",
-          "field": "prizeShare",
+          "field": "noOfLaureates",
+          "type": "quantitative",
+          "stack": "zero",
           "title": "Number of Nobel Laureates",
-          "axis": {"titleFontSize": 12, "domainColor":"#D6AD60"}
+          "axis": {"titleFontSize": 12, "domainColor": "#D6AD60"}
         },
         "y": {
           "field": "category",
+          "type": "nominal",
           "title": "Category",
-          "axis": {"titleFontSize": 12, "domainColor":"#D6AD60"}
+          "axis": {"titleFontSize": 12, "domainColor": "#D6AD60"}
         },
         "color": {
           "field": "prizeShare",
           "title": "Prize Share",
           "legend": {
-            "padding":4,
+            "padding": 4,
             "title": "Category",
-            "titleAnchor":"middle",
+            "titleAnchor": "middle",
             "orient": "none",
             "direction": "vertical",
             "legendY": 75,
@@ -49,23 +50,12 @@
           }
         },
         "opacity": {
-          "condition": {
-            "param": "prizeshare_highlight",
-            "value": 0.9
-          },
+          "condition": {"param": "prizeshare_highlight", "value": 0.9},
           "value": 0.2
         },
         "tooltip": [
-          {
-            "field": "category",
-            "type": "nominal",
-            "title": "Category"
-          },
-          {
-            "field": "prizeShare",
-            "type": "nominal",
-            "title": "Prize Share"
-          },
+          {"field": "category", "type": "nominal", "title": "Category"},
+          {"field": "prizeShare", "type": "nominal", "title": "Prize Share"},
           {
             "aggregate": "count",
             "field": "prizeShare",
@@ -76,38 +66,38 @@
       }
     },
     {
-      "mark": {
-        "type": "text",
-        "align": "left",
-        "baseline": "middle",
-        "dx": 3
-      },
+      "mark": {"type": "text", "dx": -15, "dy": 3},
       "encoding": {
         "x": {
-          "aggregate": "count",
-          "field": "prizeShare",
+          "field": "noOfLaureates",
+          "type": "quantitative",
           "stack": "zero"
         },
-        "y": {
-          "field": "category",
-          "type": "nominal"
-        },
+        "y": {"field": "category", "type": "nominal"},
         "color": {
+          "field": "prizeShare",
           "type": "nominal",
-          "scale": {
-            "range": [
-              "white"
-            ]
-          },
+          "scale": {"range": ["white"]},
           "legend": null
         },
-        "text": {
-          "aggregate": "count",
-          "field": "category",
-          "type": "quantitative"
+        "text": {"field": "noOfLaureates", "type": "quantitative"},
+        "opacity": {
+          "condition": {
+            "test": "datum.noOfLaureates == 108 || datum.noOfLaureates == 109 || datum.noOfLaureates == 84",
+            "value": 1
+          },
+          "value": 0
         }
       }
     }
   ],
-  "config": {"axis": {"gridColor":"#D6AD60","gridOpacity":0.5,"tickColor":"#D6AD60"},"style": {"cell": {"stroke": "#D6AD60"}},"font": "Lato"}
+  "config": {
+    "axis": {
+      "gridColor": "#D6AD60",
+      "gridOpacity": 0.5,
+      "tickColor": "#D6AD60"
+    },
+    "style": {"cell": {"stroke": "#D6AD60"}},
+    "font": "Lato"
+  }
 }
